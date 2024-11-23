@@ -1,0 +1,50 @@
+def process_input(input_data):
+    result = {}
+    for line in input_data:
+        blz, kst, ksg = map(int, line.split(';'))
+        if blz not in result:
+            result[blz] = []
+        if not result[blz] or kst != result[blz][-1][1] + 1:
+            result[blz].append([kst, kst, ksg])
+        else:
+            result[blz][-1][1] = kst
+    return result
+
+def format_output(processed_data):
+    output = []
+    for blz, kst_data in processed_data.items():
+        for kst_range in kst_data:
+            output.append(f"{blz};{kst_range[0]};{kst_range[1]};{kst_range[2]}")
+    return sorted(output)
+
+input_data = [
+    "35000;1;11",
+    "35000;2;11",
+    "35000;3;11",
+    "35000;4;11",
+    "35000;5;11",
+    "35000;995;11",
+    "35000;996;59",
+    "35000;997;27",
+    "35000;999;41",
+    "35001;100;90",
+    "35001;150;90",
+    "35001;200;90",
+    "35001;250;50",
+    "35001;251;50",
+    "35001;252;50",
+    "35001;650;90",
+    "35004;100;50",
+    "35004;150;90",
+    "35004;650;50",
+    "35007;100;90",
+    "35007;150;90"
+]
+
+print(type(input_data))
+
+processed_data = process_input(input_data)
+output_data = format_output(processed_data)
+
+for line in output_data:
+    print(line)

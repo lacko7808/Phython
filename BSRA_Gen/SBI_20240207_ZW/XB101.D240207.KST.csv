@@ -1,0 +1,1087 @@
+BANKLEITZAHL|KST_NEU|KST_ALT|BEZEICHNUNG|BEZEICHNUNG_LANG|GESCHÄFTSBEREICH|GESCHÄFTSBEREICH_BEZEICHNUNG|GESCHÄFTSBEREICH_VERANTWORTL|SEGMENT|SEGMENT_BEZEICHNUNG|SEGMENT_VERANTWORTLICHER|ORGEINHEIT|ORGEINHEIT_BEZEICHNUNG|ORGEINHEIT_VERANTWORTLICHER|BEREICH|BEREICH_BEZEICHNUNG|BEREICH_VERANTWORTLICHER|BANKSTELLE|KZ_PLANBAR|KZ_ZUORDNEN|GÜLTIG_BIS|GÜLTIG_VON
+35000|001|50000|Warendirektion|50000 Warendirektion|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|002|50001|Marketing Ware|50001 Marketing Ware|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|003|50002|Organisation & Projekte|50002 Organisation & Projekte|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2019-11-01
+35000|004|50003|AOM Ware|50003 AOM Ware|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2020-02-05
+35000|005|50009|Warenumsätze BRD|50009 Warenumsätze BRD|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|006|51000|GB Markt|51000 GB Markt|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|007|51010|FB Landwirtschaft_RVS|51010 FB Landwirtschaft_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|008|51011|Produktion_RVS|51011 Produktion_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|009|51018|Aussendienst Landwirts.|51018 Aussendienst Landwirts.|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|010|51020|FB Haushalt_RVS|51020 FB Haushalt_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|011|51030|FB Garten_RVS|51030 FB Garten_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|012|51050|FB Werkzeuge|51050 FB Werkzeuge|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|013|51100|FB Energie_RVS|51100 FB Energie_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|014|52000|GB Baustoffe|52000 GB Baustoffe|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|015|52010|FB Rohbau_RVS|52010 FB Rohbau_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|016|52020|FB Innenausbau_RVS|52020 FB Innenausbau_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|017|53000|VL Technik_RVS|53000 VL Technik_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|018|53100|FB Technik/Verkauf_RVS|53100 FB Technik/Verkauf_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|019|53101|HV Technik Bergheim|53101 HV Technik Bergheim|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|020|53109|Technik Flachgau Ost|53109 Technik Flachgau Ost|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2017-01-01
+35000|021|53111|Technik/Verkauf Sbg.|53111 Technik/Verkauf Sbg.|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|022|53200|FB Werkstätten_RVS|53200 FB Werkstätten_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|023|53211|Wst. Salzburg/E-Lager|53211 Wst. Salzburg/E-Lager|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|024|53212|Technik Flachau|53212 Technik Flachau|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|025|53213|Technik Tamsweg_RVS|53213 Technik Tamsweg_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|026|53214|Technik Kuchl|53214 Technik Kuchl|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|027|53215|Technik Saalfelden_RVS|53215 Technik Saalfelden_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|028|53216|Technik St. Johann_RVS|53216 Technik St. Johann_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|029|53218|Technik Bramberg|53218 Technik Bramberg|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|030|53220|Technik Bruck|53220 Technik Bruck|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|031|53237|Kühl- u. Melktechnik|53237 Kühl- u. Melktechnik|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|032|54000|Zentrallager Bergheim|54000 Zentrallager Bergheim|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|033|54103|Lager Raiff. Str. 27|54103 Lager Raiff. Str. 27|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|034|54106|Tanklager Lehen_RVS|54106 Tanklager Lehen_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|035|54107|Tanklager Saalfelden_RVS|54107 Tanklager Saalfelden_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|036|54201|Zentraler Fuhrpark|54201 Zentraler Fuhrpark|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|037|54202|Fuhrpark Pongau_RVS|54202 Fuhrpark Pongau_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|038|54203|Fuhrpark Pinzgau_RVS|54203 Fuhrpark Pinzgau_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|039|54209|Fuhrpark Energie_RVS|54209 Fuhrpark Energie_RVS|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|040|55000|Vl. Flach-/Tennengau|55000 Vl. Flach-/Tennengau|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|041|55001|Lgh Abersee|55001 Lgh Abersee|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|042|55003|Lgh Bergheim|55003 Lgh Bergheim|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|043|55005|Lgh Elsbethen|55005 Lgh Elsbethen|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|044|55006|Lgh Eugendorf|55006 Lgh Eugendorf|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|045|55007|Lgh Grödig|55007 Lgh Grödig|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|046|55008|Lgh Hallein|55008 Lgh Hallein|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|047|55009|Lgh St. Koloman|55009 Lgh St. Koloman|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2017-01-01
+35000|048|55011|Lgh Michaelbeuern|55011 Lgh Michaelbeuern|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|049|55013|Lgh Steindorf|55013 Lgh Steindorf|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|050|55016|Lgh Wals|55016 Lgh Wals|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|051|55017|Lgh Hof|55017 Lgh Hof|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|052|55025|Lgh Göming|55025 Lgh Göming|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|053|56000|Vl. Lungau|56000 Vl. Lungau|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|054|56001|Lgh Tamsweg|56001 Lgh Tamsweg|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|055|56002|Lgh St. Michael|56002 Lgh St. Michael|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|056|56012|Lgh Zederhaus|56012 Lgh Zederhaus|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|057|56040|HV Lwz Tamsweg|56040 HV Lwz Tamsweg|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|058|57000|Vl. Pongau|57000 Vl. Pongau|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|059|57001|Lgh Bischofshofen|57001 Lgh Bischofshofen|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|060|57002|Lgh Grossarl|57002 Lgh Grossarl|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|061|57004|Lgh Rauris|57004 Lgh Rauris|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|062|57006|Lgh St. Johann|57006 Lgh St. Johann|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|063|57007|Lgh Taxenbach|57007 Lgh Taxenbach|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|064|57008|Lgh Wagrain|57008 Lgh Wagrain|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|065|57040|Hv Lwz St. Johann|57040 Hv Lwz St. Johann|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|066|58000|Vl. Pinzgau|58000 Vl. Pinzgau|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|067|58001|Lgh Oberpinzgau|58001 Lgh Oberpinzgau|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|068|58002|Lgh Bruck|58002 Lgh Bruck|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|069|58004|Lgh Mittersill|58004 Lgh Mittersill|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|070|58006|Lgh Niedernsill|58006 Lgh Niedernsill|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|071|58007|Lgh Saalbach|58007 Lgh Saalbach|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|072|58008|Lgh Saalfelden|58008 Lgh Saalfelden|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|073|58009|Lgh St. Martin|58009 Lgh St. Martin|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|074|59000|Vl. Obetrum|59000 Vl. Obetrum|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|075|59001|Lgh Obertrum|59001 Lgh Obertrum|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2015-01-01
+35000|076|50040|BGA Warenzentrale|50040 BGA Warenzentrale|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2022-01-01
+35000|077|50041|BGA Kantine Bergheim|50041 BGA Kantine Bergheim|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2022-01-01
+35000|080|10336|IT-Ware|10336 IT-Ware|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2022-01-01
+35000|081|41400|RW & CO Warenbetriebe|41400 RW & CO Warenbetriebe|11|Ware||11|Ware||11|Ware||11|Ware||00||J|9999-12-31|2023-01-01
+35000|101|10100|Revision|10100 Revision|10|Revision||10|Revision||10|Revision||10|Revision||00|J|J|9999-12-31|2017-01-01
+35000|110|30100|Zentr Auslieferungslager|30100 Zentr Auslieferungslager|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|111|30140|HV Warenzentrale Berheim|30140 HV Warenzentrale Berheim|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|112|31102|Lgh.Techn.Flachau/Altenm|31102 Lgh.Techn.Flachau/Altenm|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|113|31108|Lgh.Technik Bramberg|31108 Lgh.Technik Bramberg|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|114|31110|Lgh.Technik Buck|31110 Lgh.Technik Buck|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|115|31140|Lgh.Technik Bergheim|31140 Lgh.Technik Bergheim|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|116|32001|Lagerhaus Abersee|32001 Lagerhaus Abersee|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|117|32005|Lagerhaus Bergheim|32005 Lagerhaus Bergheim|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|118|32006|Lagerhaus Elsbethen|32006 Lagerhaus Elsbethen|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|119|32007|Lagerhaus Eugendorf|32007 Lagerhaus Eugendorf|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|120|32008|Lagerhaus Hallein|32008 Lagerhaus Hallein|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|121|32011|Lagerhaus Hof|32011 Lagerhaus Hof|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|122|32012|Lagerhaus Göming|32012 Lagerhaus Göming|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|123|32015|Lagerhaus Michaelbeuern|32015 Lagerhaus Michaelbeuern|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|124|32022|Lagerhaus Wals|32022 Lagerhaus Wals|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|125|32024|Lagerhaus Steindorf|32024 Lagerhaus Steindorf|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|126|32031|Lagerhaus Grödig|32031 Lagerhaus Grödig|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|127|34003|Lagerhaus St. Michael|34003 Lagerhaus St. Michael|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|128|34004|Lagerhaus Zederhaus|34004 Lagerhaus Zederhaus|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|129|34040|Lgh & Technik Tamsweg|34040 Lgh & Technik Tamsweg|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|130|35012|Lagerhaus Großarl|35012 Lagerhaus Großarl|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|131|35013|Lagerhaus Wagrain|35013 Lagerhaus Wagrain|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|132|35030|Lagerhaus Bischofshofen|35030 Lagerhaus Bischofshofen|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|133|35040|Lgh & Technik St. Johann|35040 Lgh & Technik St. Johann|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|134|35041|Lagerhaus Taxenbach|35041 Lagerhaus Taxenbach|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|135|35051|Lagerhaus Rauris|35051 Lagerhaus Rauris|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|136|36000|Lagerhaus Saalfelden|36000 Lagerhaus Saalfelden|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|137|36002|Lagerhaus Bruck|36002 Lagerhaus Bruck|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|138|36003|Lagerhaus St. Martin|36003 Lagerhaus St. Martin|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|139|36007|Lagerhaus Niedernsill|36007 Lagerhaus Niedernsill|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|140|36011|Lagerhaus Saalbach|36011 Lagerhaus Saalbach|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|141|36016|Lgh Oberpinzgau (Bramberg)|36016 Lgh Oberpinzgau (Bramb.)|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|142|36017|Lagerhaus Mittersill|36017 Lagerhaus Mittersill|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|143|36040|HV Saalfelden (alt)|36040 HV Saalfelden (alt)|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|144|38002|Lagerhaus Obertrum|38002 Lagerhaus Obertrum|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|145|39140|Areal Itzl. Mischfutterw|39140 Areal Itzl. Mischfutterw|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2022-01-01
+35000|150|20000|Geschäftsleitung|20000 Geschäftsleitung|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2015-01-01
+35000|151|20100|Sekretariat|20100 Sekretariat|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2015-01-01
+35000|152|20140|HV Zentrale Gerberstraße|20140 HV Zentrale Gerberstraße|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|153|20200|Projekte & Organisation|20200 Projekte & Organisation|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2015-01-01
+35000|154|20500|Transformation & Nachhaltigk.|20500 Transform.&Nachhaltigk.|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2015-01-01
+35000|155|30110|Zentrallager|30110 Zentrallager|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|156|30120|Lager Mischfutterwerk|30120 Lager Mischfutterwerk|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|157|30200|Fuhrpark|30200 Furhpark|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|158|30220|Fuhrpark Pongau|30220 Fuhrpark Pongau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|159|30230|Fuhrpark Pinzgau|30230 Fuhrpark Pinzgau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|160|30250|Fuhrpark Energie|30250 Fuhrpark Energie|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|161|30300|Deutscher Betrieb|30300 Deutscher Betrieb|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|162|31100|VL Technik|31100 VL Technik|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|163|31101|Technik Salzburg|31101 Technik Salzburg|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|164|31103|Technik Tamsweg|31103 Technik Tamsweg|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|165|31105|Technik Saalfelden|31105 Technik Saalfelden|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|166|31106|Technik St. Johann|31106 Technik St. Johann|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|167|31109|Technik-Verkauf Flachgau Ost|31109 Techn.-Vkf. Flachgau Ost|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|168|31111|Technik-Verkauf Flachgau Süd|31111 Techn.-Vkf. Flachgau Süd|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|169|31112|Technik-Verkauf Tennengau|31112 Techn.-Vkf. Tennengau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|170|31135|Kühl- u. Melktechnik Pinzgau|31135 Kühl- u. Melkt. Pinzgau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|171|31136|Kühl- u. Melktechnik Bruck|31136 Kühl- u.  Melkt. Bruck|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|172|31137|Kühl- u. Melktechnik Flachgau|31137 Kühl- u. Melkt. Flachg.|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|173|31210|FB Technik/Verkauf|31210 FB Technik/Verkauf|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|174|31220|FB Werkstätten|31220 FB Werkstätten|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|175|32100|VL Flach- und Tennengau|31141 Lgh.Technik Bergheim|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|176|32009|Lagerhaus St. Kolomann|32008 Lagerhaus St. Kolomann|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|177|34100|VL Lungau|34100 VL Lungau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|178|34000|Lagerhaus Tamsweg|34000 Lagerhaus Tamsweg|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|179|35100|VL Pongau|35100 VL Pongau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|180|35011|Lagerhaus St. Johann|35011 Lagerhaus St. Johann|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|181|36100|VL Pinzgau|36100 VL Pinzgau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|182|39100|FB Landwirtschaft|39100 FB Landwirtschaft|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|183|39110|Produktion|39100 Produktion|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|184|39120|Außendienst|39120 Außendienst|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|185|39210|FB Haushalt|39210 FB Haushalt|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|186|39220|FB Garten|39220 FB Garten|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|187|39230|FB Werkzeug|39230 FB Werkzeug|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|188|39310|FB Rohbau|39310 FB Rohbau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|189|39320|FB Innenausbau|39320 FB Innenausbau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|190|39400|FB Energie|39400 FB Energie|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|191|39410|Tanklager Lehen|39410 Tanklager Lehen|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|192|39420|Tanklager Saalfelden|39420 Tanklager Saalfelden|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|193|42000|Marketing Ware|42000 Marketing Ware|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|194|43000|AOM|43000 AOM|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|195|44000|RW&CO Ware|44000 RW&CO Ware|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|196|45000|IT-Leitung & Prozesse|45000 IT-Leitung & Prozesse|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|197|45100|Kundencenter|45100 Kundencenter|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|198|45200|Businessanalyse|45200 Businessanalyse|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|199|45300|Softwareentwicklung|45300 Softwareentwicklung|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35000|200|40200|Generaldirektion|40200 Generaldirektion|20|GD||20|Generalsekretariat||20|Generalsekretariat||20|Generalsekretariat||00|J|J|9999-12-31|2015-01-01
+35000|201|40201|Gen.Dion.Pens|40201 Gen.Dion.Pens|20|GD||20|Generalsekretariat||20|Generalsekretariat||20|Generalsekretariat||00|J|J|9999-12-31|2015-01-01
+35000|202|40203|Generalsekretariat ALT|40203 Generalsekretariat ALT|20|GD||20|Generalsekretariat||20|Generalsekretariat||20|Generalsekretariat||00|J|J|9999-12-31|2021-01-01
+35000|203|40810|Zentralkostenstelle|40810 Zentralkostenstelle|20|GD||20|Generalsekretariat||20|Generalsekretariat||20|Generalsekretariat||00|J|J|9999-12-31|2023-01-01
+35000|210|41000|Marketing|41000 Marketing|20|GD||21|Marketing||21|Marketing||21|Marketing||00|J|J|9999-12-31|2015-01-01
+35000|211|41001|Werbung|41001 Werbung|20|GD||21|Marketing||21|Marketing||21|Marketing||00|J|J|9999-12-31|2015-01-01
+35000|215|41002|Öffentlichkeitsarbeit|41002 Öffentlichkeitsarbeit|20|GD||22|Öffentlichkeitsarbeit||22|Öffentlichkeitsarbeit||22|Öffentlichkeitsarbeit||00|J|J|9999-12-31|2015-01-01
+35000|220|40100|General-Versammlung|40100 General-Versammlung|20|GD||23|General-Versammlung-Verwaltung||23|General-Versammlung-Verwaltung||23|General-Versammlung-Verwaltung||00|J|J|9999-12-31|2015-01-01
+35000|230|40210|Betriebsrat|40210 Betriebsrat|20|GD||24|Betriebsrat||24|Betriebsrat||24|Betriebsrat||00|J|J|9999-12-31|2015-06-01
+35000|231|40700|Innenrevision|40700 Innenrevision|20|GD||25|Innenrevision||25|Innenrevision||25|Innenrevision||00|J|J|9999-12-31|2015-01-01
+35000|232|64600|Pensionen|64600 Pensionen|20|GD||26|Pensionen||26|Pensionen||26|Pensionen||00|J|J|9999-12-31|2015-01-01
+35000|235|60000|Dummy|60000 Dummy|20|GD||27|Sonstige GD||27|Sonstige GD||27|Sonstige GD||00|J|J|9999-12-31|2015-01-01
+35000|236|64750|Dummy-KST Schwarzstr.|64750 Dummy-KST Schwarzstr.|20|GD||27|Sonstige GD||27|Sonstige GD||27|Sonstige GD||00|J|J|9999-12-31|2015-01-01
+35000|240|40400|Personalmanagement|40400 Personalmanagement|20|GD||28|Personalmanagement||28|Personalmanagement||28|Personalmanagement||00|J|J|9999-12-31|2015-01-01
+35000|241|40401|Personalverrechnung|40401 Personalverrechnung|20|GD||28|Personalmanagement||28|Personalmanagement||28|Personalmanagement||00|J|J|9999-12-31|2023-01-01
+35000|242|40402|Recruit./Personalentw.|40402 Recruit./Personalentw.|20|GD||28|Personalmanagement||28|Personalmanagement||28|Personalmanagement||00|J|J|9999-12-31|2022-12-20
+35000|243|40403|Personal Verb. Untern.|40403 Personal Verb. Untern.|20|GD||28|Personalmanagement||28|Personalmanagement||28|Personalmanagement||00|J|J|9999-12-31|2023-01-01
+35000|244|40404|Auszubildende|40404 Auszubildende|20|GD||28|Personalmanagement||28|Personalmanagement||28|Personalmanagement||00|J|J|9999-12-31|2023-01-01
+35000|245|40406|Sumsis@Work|40406 Sumsis@Work|20|GD||28|Personalmanagement||28|Personalmanagement||28|Personalmanagement||00|J|J|9999-12-31|2023-01-01
+35000|250|64700|NVE ZV|64700 NVE ZV|20|GD||29|Nicht verteilte Erträge||29|Nicht verteilte Erträge||29|Nicht verteilte Erträge||00|J|J|9999-12-31|2015-01-01
+35000|251|64701|NVE WP|64701 NVE WP|20|GD||29|Nicht verteilte Erträge||29|Nicht verteilte Erträge||29|Nicht verteilte Erträge||00|J|J|9999-12-31|2023-01-01
+35000|300|10300|ORG/IT-Zentrale Serv.|10300 ORG/IT-Zentrale Serv.|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2021-06-01
+35000|301|10311|IT-Vor-Ort-Service|10311 IT-Vor-Ort-Service|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2022-02-01
+35000|302|10312|IT Produktmanagement|10312 IT Produktmanagement|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2022-02-01
+35000|303|10314|Hardwarevermietung|10314 Hardwarevermietung|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2022-02-01
+35000|304|10317|IT-Anwendungen & Innovation|10317 IT-Anwendungen & Innovat|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2023-01-01
+35000|305|10318|Prozessmanagement RGS|10318 Prozessmanagement RGS|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2021-06-01
+35000|306|10319|Softwareingetrat. Bank|10319 Softwareingetrat. Bank|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2022-02-01
+35000|307|10332|RVS-Datenbez. direkt|10332 RVS-Datenbez. direkt|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2021-06-01
+35000|308|10335|Organisation|10335 Organisation|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2023-01-01
+35000|309|10337|Elba-Hotline|10337 Elba-Hotline|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2022-01-01
+35000|310|10340|Sicherheitsmgmt/BCM|10340 Sicherheitsmgmt/BCM|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2023-01-01
+35000|311|10341|Architektur-&Datenmgmt|10341 Architektur-&Datenmgmt|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2023-01-01
+35000|312|10342|Business Intelligence|10342 Business Intelligence|30|IT||30|ORG-IT||30|Org-IT||30|Org-IT||00|J|J|9999-12-31|2023-01-01
+35000|330|10330|RVS-IT-Kosten Sektor|10330 RVS-IT-Kosten Sektor|30|IT||31|Sektor-IT RVS||31|Sektor-IT RVS||31|Sektor-IT RVS||00|J|J|9999-12-31|2021-06-01
+35000|331|10331|RVS-Datenbez. Sektor|10331 RVS-Datenbez. Sektor|30|IT||31|Sektor-IT RVS||31|Sektor-IT RVS||31|Sektor-IT RVS||00|J|J|9999-12-31|2021-06-01
+35000|350|41700|Datenmanagement & DWH ALT|41700 Datenmanagement & DWH AL|30|IT||35|Datenmgmt, DWH & Sicherheitsm.||35|Datenmgmt, DWH & Sicherheitsm.||35|Datenmgmt, DWH & Sicherheitsm.||00|J|J|9999-12-31|2016-03-07
+35000|351|41710|Datenanalyse ALT|41710 Datenanalyse ALT|30|IT||35|Datenmgmt, DWH & Sicherheitsm.||35|Datenmgmt, DWH & Sicherheitsm.||35|Datenmgmt, DWH & Sicherheitsm.||00|J|J|9999-12-31|2019-01-01
+35000|352|41720|Datenschutz ALT|41720 Datenschutz ALT|30|IT||35|Datenmgmt, DWH & Sicherheitsm.||35|Datenmgmt, DWH & Sicherheitsm.||35|Datenmgmt, DWH & Sicherheitsm.||00|J|J|9999-12-31|2021-01-01
+35000|355|40701|IT-Security & Audit|40701 IT-Security & Audit|30|IT||36|IT-Security & Audit||36|IT-Security & Audit||36|IT-Security & Audit||00|J|J|9999-12-31|2019-01-22
+35000|360|41750|weITblick|41750 weITblick|30|IT||37|weITblick||37|weITblick||37|weITblick||00|J|J|9999-12-31|2023-01-01
+35000|400|64100|Risikomanagement|64100 Risikomanagement|40|US||43|Risikomanagement||43|Risikomanagement||43|Risikomanagement||00|J|J|9999-12-31|2023-01-01
+35000|401|64130|KRM FK & PGK|64130 KRM FK & PGK|40|US||43|Risikomanagement||43|Risikomanagement||43|Risikomanagement||00|J|J|9999-12-31|2023-01-01
+35000|402|64135|KRM Immo. & Banken|64135 KRM Immo. & Banken|40|US||43|Risikomanagement||43|Risikomanagement||43|Risikomanagement||00|J|J|9999-12-31|2023-01-01
+35000|403|64140|Risikosteuerung|64140 Risikosteuerung|40|US||43|Risikomanagement||43|Risikomanagement||43|Risikomanagement||00|J|J|9999-12-31|2023-01-01
+35000|404|64150|Risikocontrolling|64150 Risikocontrolling|40|US||43|Risikomanagement||43|Risikomanagement||43|Risikomanagement||00|J|J|9999-12-31|2023-01-01
+35000|410|61400|Sanierungskunden|61400 Sanierungskunden|40|US||44|Sanierung||44|Sanierung||44|Sanierungskunden||00|J|J|9999-12-31|2015-01-01
+35000|411|64120|Sonderkredite|64120 Sonderkredite|40|US||43|Risikomanagement||43|Risikomanagement||43|Risikomanagement||00|J|J|9999-12-31|2023-01-01
+35000|420|40800|RW & CO|40800 RW & CO|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|421|40801|RW & CO Bank|40801 RW & CO Bank|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|430|40805|Meldewesen RBGS|40805 Meldewesen RBGS|40|US||42|Meldewesen RBGS||42|Meldewesen RBGS||42|Meldewesen RBGS||00|J|J|9999-12-31|2021-01-01
+35000|431|40806|Meldewesen RB's ALT|40806 Meldewesen RB's ALT|40|US||42|Meldewesen RBGS||42|Meldewesen RBGS||42|Meldewesen RBGS||00|J|J|9999-12-31|2020-08-01
+35000|450|40300|Finanzdirektion|40300 Finanzdirektion|40|US||40|Finanzdirektion||40|Finanzdirektion||40|Finanzdirektion||00|J|J|9999-12-31|2015-01-01
+35000|451|40301|Weinhandel|40301 Weinhandel|40|US||40|Finanzdirektion||40|Finanzdirektion||40|Finanzdirektion||00|J|J|9999-12-31|2022-01-01
+35000|452|40830|Nachhaltigkeitsmanagem.|40830 Nachhaltigkeitsmanagem.|40|US||40|Finanzdirektion||40|Finanzdirektion||40|Finanzdirektion||00|J|J|9999-12-31|2022-12-01
+35000|500|40900|BL RB'n & Ware|40900 BL RB'n & Ware|50|SC||50|BL SC RVS, RBn und Ware||50|BL SC RVS, RBn und Ware||50|BL SC RVS, RBn und Ware||00|J|J|9999-12-31|2023-01-01
+35000|501|64000|BL Servicecenter Bank ALT|64000 BL Servicecenter Bank AL|50|SC||50|BL SC RVS, RBn und Ware||50|BL SC RVS, RBn und Ware||50|BL SC RVS, RBn und Ware||00|J|J|9999-12-31|2015-01-01
+35000|502|40902|Veranstaltungen RBGS|40902 Veranstaltungen RBGS|50|SC||50|BL SC RVS, RBn und Ware||50|BL SC RVS, RBn und Ware||50|BL SC RVS, RBn und Ware||00|J|J|9999-12-31|2023-04-01
+35000|510|40901|Office Raiffeisenbanken|40901 Office Raiffeisenbanken|50|SC||51|Office Raiffeisenbanken||51|Office Raiffeisenbanken||51|Office Raiffeisenbanken||00|J|J|9999-12-31|2021-01-01
+35000|511|40204|Office RB ALT|40204 Office RB ALT|50|SC||51|Office Raiffeisenbanken||51|Office Raiffeisenbanken||51|Office Raiffeisenbanken||00|J|J|9999-12-31|2020-05-27
+35000|512|40910|RB-Beratung|40910 RB-Beratung|50|SC||52|Raiffeisenbankenberatung||52|Raiffeisenbankenberatung||52|Raiffeisenbankenberatung||00|J|J|9999-12-31|2021-01-01
+35000|515|10200|Kreditber./U-Analyse|10200 Kreditber./U-Analyse|50|SC||53|Kreditber./Unternehmensanalyse||53|Kreditber./Unternehmensanalyse||53|Kreditber./Unternehmensanalyse||00|J|J|9999-12-31|2015-01-01
+35000|520|40600|Rechtsabteilung|40600 Rechtsabteilung|50|SC||54|Recht und Compliance||54|Recht und Compliance||54|Recht und Compliance||00|J|J|9999-12-31|2015-01-01
+35000|521|40610|Compliance|40610 Compliance|50|SC||54|Recht und Compliance||54|Recht und Compliance||54|Recht und Compliance||00|J|J|9999-12-31|2023-01-01
+35000|530|64320|SC Konto & ZV|64320 SC Konto & ZV|50|SC||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||00|J|J|9999-12-31|2022-01-01
+35000|531|64321|Zahlungsverkehr|64321 Zahlungsverkehr|50|SC||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||00|J|J|9999-12-31|2022-01-01
+35000|532|64322|Nostrobankendisposition|64322 Nostrobankendisposition|50|SC||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||00|J|J|9999-12-31|2022-01-01
+35000|533|64324|ZV-Überw. & Recherche|64324 ZV-Überw. & Recherche|50|SC||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||00|J|J|9999-12-31|2022-01-01
+35000|534|64325|Geld-/Münzversorgung|64325 Geld-/Münzversorgung|50|SC||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||00|J|J|9999-12-31|2022-01-01
+35000|535|64340|E-Banking & Card Serv.|64340 E-Banking & Card Serv.|50|SC||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||55|SC Zahlungsverkehr||00|J|J|9999-12-31|2022-01-01
+35000|540|64200|Servicecenter Fin. & WP|64200 Servicecenter Fin. & WP|50|SC||56|SC Finanzierung und WP||56|SC Finanzierung und WP||56|SC Finanzierung und WP||00|J|J|9999-12-31|2016-10-01
+35000|541|64210|Wertpapierabwicklung|64210 Wertpapierabwicklung|50|SC||56|SC Finanzierung und WP||56|SC Finanzierung und WP||56|SC Finanzierung und WP||00|J|J|9999-12-31|2023-01-01
+35000|542|64250|Abwicklung Fin. PGK|64250 Abwicklung Fin. PGK|50|SC||56|SC Finanzierung und WP||56|SC Finanzierung und WP||56|SC Finanzierung und WP||00|J|J|9999-12-31|2023-01-01
+35000|543|64260|Treasury Services|64260 Treasury Services|50|SC||56|SC Finanzierung und WP||56|SC Finanzierung und WP||56|SC Finanzierung und WP||00|J|J|9999-12-31|2023-01-01
+35000|550|41101|Expedit/Geldservice|41101 Expedit/Geldservice|50|SC||57|SC ZEK & Expedit||57|SC ZEK & Expedit||57|SC ZEK & Expedit||00|J|J|9999-12-31|2020-01-01
+35000|551|41102|Zentraler Einkauf|41102 Zentraler Einkauf|50|SC||57|SC ZEK & Expedit||57|SC ZEK & Expedit||57|SC ZEK & Expedit||00|J|J|9999-12-31|2015-01-01
+35000|552|41104|Geldservice|41104 Geldservice|50|SC||57|SC ZEK & Expedit||57|SC ZEK & Expedit||57|SC ZEK & Expedit||00|J|J|9999-12-31|2017-01-01
+35000|560|64010|Servicecenter Kunde|64010 Servicecenter Kunde|50|SC||58|SC Kunde & Konto||58|SC Kunde & Konto||58|SC Kunde & Konto||00|J|J|9999-12-31|2019-04-01
+35000|561|64326|Filialzahlungsverkehr|64326 Filialzahlungsverkehr|50|SC||58|SC Kunde & Konto||58|SC Kunde & Konto||58|SC Kunde & Konto||00|J|J|9999-12-31|2023-03-01
+35000|562|64330|Zentrale Kontoservices|64330 Zentrale Kontoservices|50|SC||58|SC Kunde & Konto||58|SC Kunde & Konto||58|SC Kunde & Konto||00|J|J|9999-12-31|2023-03-01
+35000|600|62000|BL PGK|62000 BL PGK|60|PGK||60|Bereichsleitung PGK||60|Bereichsleitung PGK||60|Bereichsleitung PGK||00|J|J|9999-12-31|2015-01-01
+35000|601|62301|Fil. Zell am See|62301 Fil. Zell am See|60|PGK||61|Retail Banking||62|Filialen ohne AL||62|FVB ZELL||01|J|J|9999-12-31|2015-01-01
+35000|602|62302|Fil. Schallmoos|62302 Fil. Schallmoos|60|PGK||61|Retail Banking||62|Filialen ohne AL||63|FVB SCHA||02|J|J|9999-12-31|2015-01-01
+35000|604|62304|Fil. Schüttdorf|62304 Fil. Schüttdorf|60|PGK||61|Retail Banking||62|Filialen ohne AL||62|FVB ZELL||01|J|J|9999-12-31|2015-01-01
+35000|605|62305|Fil. Thumersbach|62305 Fil. Thumersbach|60|PGK||61|Retail Banking||62|Filialen ohne AL||62|FVB ZELL||01|J|J|9999-12-31|2015-01-01
+35000|606|62306|Fil. Lehen|62306 Fil. Lehen|60|PGK||61|Retail Banking||62|Filialen ohne AL||68|Fil. Lehen||42|J|J|9999-12-31|2015-01-01
+35000|607|62307|Fil. Gnigl|62307 Fil. Gnigl|60|PGK||61|Retail Banking||62|Filialen ohne AL||63|FVB SCHA||07|J|J|9999-12-31|2015-01-01
+35000|608|62308|Fil. Leopoldskron|62308 Fil. Leopoldskron|60|PGK||61|Retail Banking||62|Filialen ohne AL||64|FVB MOLE||08|J|J|9999-12-31|2015-01-01
+35000|609|62309|Fil. Oberndorf|62309 Fil. Oberndorf|60|PGK||61|Retail Banking||62|Filialen ohne AL||66|Fil. Oberndorf||09|J|J|9999-12-31|2015-01-01
+35000|610|62310|Gruppe PGK Schwarzstr.|62310 Gruppe PGK Schwarzstr.|60|PGK||70|PKAS||70|PKVS||70|PKVS||00|J|J|9999-12-31|2023-01-01
+35000|611|62100|Private Banking|62100 Private Banking|60|PGK||70|PKAS||70|PKVS||70|PKVS||00|J|J|9999-12-31|2017-01-01
+35000|612|62312|Service/Ticket|62312 Service/Ticket|60|PGK||70|PKAS||71|PKAS exkl. PKVS||71|PKAS exkl. PKVS||00|J|J|9999-12-31|2017-01-01
+35000|613|62313|Safe|62313 Safe|60|PGK||70|PKAS||71|PKAS exkl. PKVS||71|PKAS exkl. PKVS||00|J|J|9999-12-31|2018-09-25
+35000|614|62311|PGK Schwarzstr. - Fin.|62311 PGK Schwarzstr. - Fin.|60|PGK||70|PKAS||71|PKAS exkl. PKVS||71|PKAS exkl. PKVS||00|J|J|9999-12-31|2020-02-05
+35000|626|62326|Fil. Parsch|62326 Fil. Parsch|60|PGK||61|Retail Banking||62|Filialen ohne AL||65|FVB PAAI||26|J|J|9999-12-31|2015-01-01
+35000|627|62327|Fil. Glasenbach|62327 Fil. Glasenbach|60|PGK||61|Retail Banking||62|Filialen ohne AL||65|FVB PAAI||27|J|J|9999-12-31|2018-01-01
+35000|628|62328|Fil. Aigen|62328 Fil. Aigen|60|PGK||61|Retail Banking||62|Filialen ohne AL||65|FVB PAAI||28|J|J|9999-12-31|2015-01-01
+35000|630|62300|AL Filialen|62300 AL Filialen|60|PGK||61|Retail Banking||61|AL Filialen||61|AL Filialen||00|J|J|9999-12-31|2015-01-01
+35000|642|62391|Fil. Morzg|62391 Fil. Morzg|60|PGK||61|Retail Banking||62|Filialen ohne AL||64|FVB MOLE||42|J|J|9999-12-31|2015-01-01
+35000|643|62392|Filiale Altstadt|62392 Filiale Altstadt|60|PGK||61|Retail Banking||62|Filialen ohne AL||67|Fil. Altstadt||43|J|J|9999-12-31|2015-01-01
+35000|644|62393|Fil. Alpenstraße|62393 Fil. Alpenstraße|60|PGK||61|Retail Banking||62|Filialen ohne AL||64|FVB MOLE||44|J|J|9999-12-31|2015-01-01
+35000|659|62359|Fil. Itzling|62359 Fil. Itzling|60|PGK||61|Retail Banking||62|Filialen ohne AL||63|FVB SCHA||59|J|J|9999-12-31|2019-01-01
+35000|670|62830|OE Vertriebscons. PGK|62830 OE Vertriebscons. PGK|60|PGK||72|OE Vertriebsconsulting PGK||72|OE Vertriebsconsulting PGK||72|OE Vertriebsconsulting PGK||00|J|J|9999-12-31|2023-01-01
+35000|675|62400|Handel|62400 Handel|60|PGK||76|Digi Services & Prodmgmt PGK||76|Digi Services & Prodmgmt PGK||76|Digi Services & Prodmgmt PGK||00|J|J|9999-12-31|2023-01-01
+35000|676|62800|Digitale Services PGK|62800 Digitale Services PGK|60|PGK||76|Digi Services & Prodmgmt PGK||76|Digi Services & Prodmgmt PGK||76|Digi Services & Prodmgmt PGK||00|J|J|9999-12-31|2020-07-01
+35000|677|62810|Vetriebsservice & Pm Pk|62810 Vetriebsservice & Pm Pk|60|PGK||76|Digi Services & Prodmgmt PGK||76|Digi Services & Prodmgmt PGK||76|Digi Services & Prodmgmt PGK||00|J|J|9999-12-31|2020-01-01
+35000|680|62840|OE Finanzpl./Verkaufscoaching|62840 OE Finanzpl./Verkauf|60|PGK||73|KC Premiumkunden, Immo & Vers.||73|OE Finanzpl./Verkaufscoaching||73|OE Finanzpl./Verkaufscoaching||00|J|J|9999-12-31|2023-01-01
+35000|681|62510|Raiffeisen Immo. Sbg|62510 Raiffeisen Immo. Sbg|60|PGK||73|KC Premiumkunden, Immo & Vers.||74|Raiffeisen Immobilien Sbg eGen||74|Raiffeisen Immobilien Sbg eGen||00|J|J|9999-12-31|2023-01-01
+35000|682|62522|Versicherung|62522 Versicherung|60|PGK||73|KC Premiumkunden, Immo & Vers.||75|Raiffeisen Sbg Vorsorge GmbH||75|Raiffeisen Sbg Vorsorge GmbH||00|J|J|9999-12-31|2023-01-01
+35000|683|62520|Sachmaklerei|62520 Sachmaklerei|60|PGK||73|KC Premiumkunden, Immo & Vers.||75|Raiffeisen Sbg Vorsorge GmbH||75|Raiffeisen Sbg Vorsorge GmbH||00|J|J|9999-12-31|2020-07-09
+35000|700|61000|BL Firmenkunden|61000 BL Firmenkunden|80|FK||80|Bereichsleitung FK||80|Bereichsleitung FK||80|Bereichsleitung FK||00|J|J|9999-12-31|2015-01-01
+35000|710|61100|Firmen- /Institut. Kd.|61100 Firmen- /Institut. Kd.|80|FK||81|Firmenkunden Vertrieb||81|Firmenkunden und Bauträger||81|Firmenkunden und Bauträger||00|J|J|9999-12-31|2016-01-01
+35000|720|61300|Bauträger|61300 Bauträger|80|FK||81|Firmenkunden Vertrieb||81|Firmenkunden und Bauträger||81|Firmenkunden und Bauträger||00|J|J|9999-12-31|2016-01-01
+35000|730|61810|VU FK|61810 VU FK|80|FK||81|Firmenkunden Vertrieb||82|Vertriebsunterstützung FK||82|Vertriebsunterstützung FK||00|J|J|9999-12-31|2019-03-01
+35000|731|61811|VU FK Vertragsserv.|61811 VU FK Vertragsserv.|80|FK||81|Firmenkunden Vertrieb||82|Vertriebsunterstützung FK||82|Vertriebsunterstützung FK||00|J|J|9999-12-31|2021-04-01
+35000|732|61812|VU FK Cashmanagement|61812 VU FK Cashmanagement|80|FK||81|Firmenkunden Vertrieb||82|Vertriebsunterstützung FK||82|Vertriebsunterstützung FK||00|J|J|9999-12-31|2020-11-01
+35000|733|61813|VU FK Förderberatung|61813 VU FK Förderberatung|80|FK||81|Firmenkunden Vertrieb||82|Vertriebsunterstützung FK||82|Vertriebsunterstützung FK||00|J|J|9999-12-31|2021-04-01
+35000|734|61820|VU FK Vertriebspl.|61820 VU FK Vertriebspl.|80|FK||81|Firmenkunden Vertrieb||82|Vertriebsunterstützung FK||82|Vertriebsunterstützung FK||00|J|J|9999-12-31|2020-03-11
+35000|735|61830|Leasing|61830 Leasing|80|FK||81|Firmenkunden Vertrieb||82|Vertriebsunterstützung FK||82|Vertriebsunterstützung FK||00|J|J|9999-12-31|2015-03-01
+35000|750|64310|Treasury|64310 Treasury|80|FK||85|Treasury||85|Treasury||85|Treasury||00|J|J|9999-12-31|2015-01-01
+35000|800|41300|Immobilien|41300 Immobilien|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|801|41201|Telefon/Empfang|41201 Telefon/Empfang|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2016-01-01
+35000|802|41301|HV Schwarzstr.|41301 HV Schwarzstr.|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|803|41303|HV Itzling Allgemein|41303 HV Itzling Allgemein|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|804|41304|Kantine Itzling|41304 Kantine Itzling|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|805|41306|Proj. Itzl. Hauptstr.|41306 Proj. Itzl. Hauptstr.|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|806|41307|HV Sonstige|41307 HV Sonstige|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|807|41314|HV Wasserfeldstr.|41314 HV Wasserfeldstr.|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|808|41317|Raiffeisengarage|41317 Raiffeisengarage|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|809|41318|Kantine Schwarstrasse|41318 Kantine Schwarstrasse|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|810|41319|HV Technikzen. Itzling|41319 HV Technikzen. Itzling|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|811|41322|HV Fr. Josefstr.|41322 HV Fr. Josefstr.|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|812|41323|HV RVS-Filialen|41323 HV RVS-Filialen|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|813|41324|Reinigung RVS-Filialen|41324 Reinigung RVS-Filialen|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|814|41325|Reinigung Schwarzstr.|41325 Reinigung Schwarzstr.|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|815|41327|Reinigung Itzling|41327 Reinigung Itzling|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|816|41328|HV Ausweichbüros|41328 HV Ausweichbüros|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|817|41330|HV Schlachthof Bergheim|41330 HV Schlachthof Bergheim|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|818|41340|HV Smb|41340 HV Smb|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-01-01
+35000|819|41350|HV Ware Sonstige|41350 HV Ware Sonstige|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2023-01-01
+35000|820|41355|HV Warendir. Bergheim|41355 HV Warendir. Bergheim|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2023-01-01
+35000|821|41356|Kantine Bergeim|41356 Kantine Bergeim|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2015-03-01
+35000|822|41360|HV Getreidegasse 34|41360 HV Getreidegasse 34|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2021-01-01
+35000|823|41361|HV Seilerstraße 1-7|41361 HV Seilerstraße 1-7|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2021-01-01
+35000|824|41362|HV Mischfutterwerk|41362 HV Mischfutterwerk|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2023-01-01
+35000|825|41364|Binder Landtechnik|41364 Binder Landtechnik|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2023-01-01
+35000|826|41365|Wissenspark Urstein|41365 Wissenspark Urstein|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2023-01-01
+35000|827|41363|Weinboutique|41363 Weinboutique|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2023-01-01
+35000|828|41370|Straßhof (Baurecht HÖ)|41370 Straßhof (Baurecht HÖ)|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2021-01-01
+35000|829|41371|HV SE Niesenbergergasse|41371 HV SE Niesenbergergasse|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2022-12-30
+35000|830|41372|HV SE Feldkirchner Str.|41372 HV SE Feldkirchner Str.|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2023-01-01
+35000|831|41366|Reserve KST 1|41366 Reserve KST 1|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2023-01-01
+35000|832|41367|Reserve KST 2|41367 Reserve KST 2|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2023-01-01
+35000|833|41368|Reserve KST 3|41368 Reserve KST 3|90|Beteiligungen & Immobilien||90|Immobilien||90|Betriebl. Immobilien||90|Betriebl. Immobilien||00|J|J|9999-12-31|2023-01-01
+35000|850|64500|Beteiligungen US|64500 Beteiligungen US|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||95|RVS Beteiligungen Allgemein||00|J|J|9999-12-31|2023-01-01
+35000|851|64501|Beteiligungen GD|64501 Beteiligungen GD|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||95|RVS Beteiligungen Allgemein||00|J|J|9999-12-31|2023-01-01
+35000|852|62500|Beteiligungen PK|62500 Beteiligungen PK|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||95|RVS Beteiligungen Allgemein||00|J|J|9999-12-31|2015-01-01
+35000|853|61500|Alternat. Fin.-Formen|61500 Alternat. Fin.-Formen|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||95|RVS Beteiligungen Allgemein||00|J|J|9999-12-31|2023-01-01
+35000|870|65100|BVG Liegenschaftsverw.|65100 BVG Liegenschaftsverw.|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-01-01
+35000|871|65101|Obj. Garching|65101 Obj. Garching|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-01-01
+35000|872|65102|Obj. Traunreut|65102 Obj. Traunreut|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-01-01
+35000|873|65103|Obj. Oberrauch|65103 Obj. Oberrauch|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-01-01
+35000|874|65104|Obj. Nürnberg - Rückert|65104 Obj. Nürnberg - Rückert|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-01-01
+35000|875|65105|Obj. Berlin - Revaler|65105 Obj. Berlin - Revaler|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-01-01
+35000|876|65111|Obj. Fuschl/Sonnleitn|65111 Obj. Fuschl/Sonnleitn|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-01-01
+35000|877|65113|Obj. Sochor/Zell|65113 Obj. Sochor/Zell|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-01-01
+35000|878|65114|Obj. Hallein/Haslwant.|65114 Obj. Hallein/Haslwant.|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-01-01
+35000|879|65115|Obj. Weibhaus./B'wiesen|65115 Obj. Weibhaus./B'wiesen|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-12-01
+35000|880|65116|Obj. Hrachowina|65116 Obj. Hrachowina|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2015-12-01
+35000|881|65117|Obj. Prielhof Mondsee|65117 Obj. Prielhof Mondsee|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2017-01-01
+35000|882|65118|Obj. ROCO Slowakei|65118 Obj. ROCO Slowakei|90|Beteiligungen & Immobilien||95|Beteiligungen||95|RVS Beteiligungen||96|BVG||00|J|J|9999-12-31|2017-01-01
+35000|950||Verteilkostenstelle 1|Verteilkostenstelle 1|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|951||Verteilkostenstelle 2|Verteilkostenstelle 2|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|952||Verteilkostenstelle 3|Verteilkostenstelle 3|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|953||Verteilkostenstelle 4|Verteilkostenstelle 4|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|954||Verteilkostenstelle 5|Verteilkostenstelle 5|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|955||Verteilkostenstelle 6|Verteilkostenstelle 6|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|956||Verteilkostenstelle 7|Verteilkostenstelle 7|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|957||Verteilkostenstelle 8|Verteilkostenstelle 8|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|958||Verteilkostenstelle 9|Verteilkostenstelle 9|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|959||Verteilkostenstelle 10|Verteilkostenstelle 10|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35000|990|70000|Initiative - Vertrieb|70000 Initiative - Vertrieb|60|PGK||60|Bereichsleitung PGK||60|Bereichsleitung PGK||60|Bereichsleitung PGK||00|J|J|9999-12-31|2020-01-01
+35000|991|70010|Initiative - U-Kunden|70010 Initiative - U-Kunden|80|FK||80|Bereichsleitung FK||80|Bereichsleitung FK||80|Bereichsleitung FK||00|J|J|9999-12-31|2020-01-01
+35000|992|70020|Initiative - Daten|70020 Initiative - Daten|40|US||40|Finanzdirektion||40|Finanzdirektion||40|Finanzdirektion||00|J|J|9999-12-31|2020-01-01
+35000|993|70030|Initiative - Moderne IT|70030 Initiative - Moderne IT|50|SC||59|Initiativen SC Bank||59|Initiativen SC Bank||59|Initiativen SC Bank||00|J|J|9999-12-31|2023-01-01
+35000|994|70040|Initiative - Kultur|70040 Initiative - Kultur|20|GD||27|Sonstige GD||27|Sonstige GD||27|Sonstige GD||00|J|J|9999-12-31|2023-01-01
+35000|995|70050|Initiative Ware|70050 Initiative Ware|11|Ware||11|Ware||11|Ware||11|Ware||00|J|J|9999-12-31|2020-01-01
+35000|996|70060|Initiative - Technolog.|70060 Initiative - Technolog.|50|SC||59|Initiativen SC Bank||59|Initiativen SC Bank||59|Initiativen SC Bank||00|J|J|9999-12-31|2020-01-01
+35000|997|70070|Initiative - Compliance|70070 Initiative - Compliance|20|GD||27|Sonstige GD||27|Sonstige GD||27|Sonstige GD||00|J|J|9999-12-31|2023-01-01
+35000|999||Fehlerkostenstelle|Fehlerkostenstelle|40|US||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||41|Rechnungswesen & Controlling||00|J|J|9999-12-31|2023-01-01
+35001|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-10-01
+35001|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-01-01
+35001|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-01-01
+35001|250|13000|Beratung Lammertal|Beratung Lammertal||||||||||50|Beratung Lammertal||00|J|J|9999-12-31|2023-01-01
+35001|251|13001|Beratung Abtenau|Beratung Abtenau||||||||||50|Beratung Lammertal||00|J|J|9999-12-31|2022-01-01
+35001|252|13002|Beratung Rußbach|Beratung Rußbach||||||||||50|Beratung Lammertal||01|J|J|9999-12-31|2022-01-01
+35001|253|13003|Beratung Annaberg|Beratung Annaberg||||||||||50|Beratung Lammertal||18|J|J|9999-12-31|2022-01-01
+35001|254|13004|Beratung Lungötz|Beratung Lungötz||||||||||50|Beratung Lammertal||18|J|J|9999-12-31|2023-01-01
+35001|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35001|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35001|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35001|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35001|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35001|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35001|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35001|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35001|650|21000|Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-01-01
+35004|100|10000|Anlagegüter|Anlagegüter GK||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35004|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|250|13000|Beratung RAFE|Beratung RAFE||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|250|13004|Beratung RAFE|Beratung RAFE||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|251|13001|Beratung Altenmarkt|Beratung Altenmarkt||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|252|13002|Beratung Flachau|Beratung Flachau||||||||||50|Beratung RAFE||01|J|J|9999-12-31|2020-01-01
+35004|253|13003|Beratung Eben|Beratung Eben||||||||||50|Beratung RAFE||02|J|J|9999-12-31|2020-01-01
+35004|300||Service-Team|Service-Team Servicebank||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2023-01-01
+35004|350|15000|Firmenkunden RAFE|Firmenkunden RAFE||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|400|16000|Privatkunden RAFE|Privatkunden RAFE||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35004|450|17000|Banksteuerung|Banksteuerung RAFE||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|500|18000|Marktfolge Bankservice|Marktfolge Bankservice||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|550|19000|Immobilien|Immobilien||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|600|20000|Maklerei|Maklerei||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35004|650|21000|Treasury|Treasury||||||||||50|Beratung RAFE||00|J|J|9999-12-31|2020-01-01
+35007|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35007|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35007|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35007|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung Anthering-Elixhausen||00|J|J|9999-12-31|2023-01-01
+35007|251|10000|Beratung Anthering|Beratung Anthering||||||||||50|Beratung Anthering-Elixhausen||00|J|J|9999-12-31|2016-01-01
+35007|252|10001|Beratung Elixhausen|Beratung Elixhausen||||||||||50|Beratung Anthering-Elixhausen||18|J|J|9999-12-31|2016-01-01
+35007|252|10002|Beratung Elixhausen|Beratung Elixhausen||||||||||50|Beratung Anthering-Elixhausen||18|J|J|9999-12-31|2016-01-01
+35007|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35007|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35007|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35007|440||Private Banking|||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35007|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35007|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35007|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35007|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35007|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35012|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35012|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35012|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35012|250||Beratung Hohe Tauern|Beratung Hohe Tauern||||||||||50|Beratung Hohe Tauern||00|J|J|9999-12-31|2023-01-01
+35012|251|13002|Beratung Bruck|Beratung Bruck||||||||||50|Beratung Hohe Tauern||00|J|J|9999-12-31|2020-01-01
+35012|251|13005|Beratung Bruck|Beratung Bruck||||||||||50|Beratung Hohe Tauern||00|J|J|9999-12-31|2020-01-01
+35012|251|13006|Beratung Bruck|Beratung Bruck||||||||||50|Beratung Hohe Tauern||00|J|J|9999-12-31|2020-01-01
+35012|251|13007|Beratung Bruck|Beratung Bruck||||||||||50|Beratung Hohe Tauern||00|J|J|9999-12-31|2020-01-01
+35012|252|13001|Beratung Kaprun|Beratung Kaprun||||||||||50|Beratung Hohe Tauern||01|J|J|9999-12-31|2020-01-01
+35012|253|13004|Beratung Piesendorf|Beratung Piesendorf||||||||||50|Beratung Hohe Tauern||18|J|J|9999-12-31|2020-01-01
+35012|254|13003|Beratung Niedernsill|Beratung Niedernsill||||||||||50|Beratung Hohe Tauern||26|J|J|9999-12-31|2020-01-01
+35012|300||Service-Team|Service-Team Servicebank||||||||||50|Beratung Hohe Tauern||00|J|J|9999-12-31|2023-01-01
+35012|350|15000|Firmenkunden Hohe Tauern|Firmenkunden Hohe Tauern||||||||||50|Beratung Hohe Tauern||00|J|J|9999-12-31|2020-01-01
+35012|400||Privatkunden|Privatkunden Servicebank||||||||||50|Beratung Hohe Tauern||00|J|J|9999-12-31|2023-01-01
+35012|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35012|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35012|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35012|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35012|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35012|650|21000|Treasury Hohe Tauern|Treasury Hohe Tauern||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35015|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35015|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35015|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35015|250|13000|Beratung Flachgau Mitte|Beratung Flachgau Mitte||||||||||50|Beratung Flachgau Mitte||00|J|J|9999-12-31|2020-01-01
+35015|251|13001|Beratung Eugendorf|Beratung Eugendorf||||||||||50|Beratung Flachgau Mitte||00|J|J|9999-12-31|2018-01-01
+35015|251|13004|Beratung Eugendorf|Beratung Eugendorf||||||||||50|Beratung Flachgau Mitte||00|J|J|9999-12-31|2018-01-01
+35015|251|13005|Beratung Eugendorf|Beratung Eugendorf||||||||||50|Beratung Flachgau Mitte||00|J|J|9999-12-31|2018-01-01
+35015|252|13002|Beratung Hallwang|Beratung Hallwang||||||||||50|Beratung Flachgau Mitte||18|J|J|9999-12-31|2018-01-01
+35015|252|13006|Beratung Hallwang|Beratung Hallwang||||||||||50|Beratung Flachgau Mitte||18|J|J|9999-12-31|2018-01-01
+35015|253|13003|Beratung Bergheim|Beratung Bergheim||||||||||50|Beratung Flachgau Mitte||26|J|J|9999-12-31|2018-01-01
+35015|253|13007|Beratung Bergheim|Beratung Bergheim||||||||||50|Beratung Flachgau Mitte||26|J|J|9999-12-31|2018-01-01
+35015|300||Service-Team|Service-Team Servicebank||||||||||50|Beratung Flachgau Mitte||00|J|J|9999-12-31|2023-01-01
+35015|350|15000|Firmenkunden|Firmenkunden Servicebank||||||||||50|Beratung Flachgau Mitte||00|J|J|9999-12-31|2018-01-01
+35015|400|16000|Privatkunden Flachgau Mitte|Privatkunden Flachgau Mitte||||||||||50|Beratung Flachgau Mitte||00|J|J|9999-12-31|2018-01-01
+35015|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35015|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35015|500|18000|Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35015|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35015|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35015|650|21000|Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35016|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35016|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35016|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35016|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung Faistenau||00|J|J|9999-12-31|2023-01-01
+35016|251|10000|Beratung Faistenau|Beratung Faistenau||||||||||50|Beratung Faistenau||00|J|J|9999-12-31|2015-01-01
+35016|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35016|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35016|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35016|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35016|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35016|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35016|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35016|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35016|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35017|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35017|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35017|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35017|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung Golling||00|J|J|9999-12-31|2023-01-01
+35017|251|10000|Beratung Golling|Beratung Golling||||||||||50|Beratung Golling||00|J|J|9999-12-31|2015-01-01
+35017|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35017|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35017|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35017|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35017|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35017|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35017|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35017|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35017|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35018|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-01-01
+35018|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-01-01
+35018|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-01-01
+35018|250|13000|Beratung Untersberg|Beratung Untersberg||||||||||50|Beratung Untersberg||00|J|J|9999-12-31|2023-01-01
+35018|251|13001|Beratung Grödig|Beratung Grödig||||||||||50|Beratung Untersberg||00|J|J|9999-12-31|2022-01-01
+35018|251|13003|Beratung Grödig|Beratung Grödig||||||||||50|Beratung Untersberg||00|J|J|9999-12-31|2022-01-01
+35018|252|13002|Beratung Anif|Beratung Anif||||||||||50|Beratung Untersberg||18|J|J|9999-12-31|2022-01-01
+35018|252|13004|Beratung Anif|Beratung Anif||||||||||50|Beratung Untersberg||18|J|J|9999-12-31|2022-01-01
+35018|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35018|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35018|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35018|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35018|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35018|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35018|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35018|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35018|650|21000|Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-01-01
+35019|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35019|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35019|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35019|250||Beratung Großarl-Hüttschlag|Beratung Großarl-Hüttschlag||||||||||50|Beratung Großarl-Hüttschlag||00|J|J|9999-12-31|2023-01-01
+35019|251|10000|Beratung Großarl|Beratung Großarl||||||||||50|Beratung Großarl-Hüttschlag||00|J|J|9999-12-31|2015-01-01
+35019|252|10001|Beratung Hüttschlag|Beratung Hüttschlag||||||||||50|Beratung Großarl-Hüttschlag||01|J|J|9999-12-31|2015-01-01
+35019|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35019|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35019|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35019|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35019|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35019|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35019|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35019|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35019|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35020|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35020|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35020|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35020|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung Großgmain||00|J|J|9999-12-31|2023-01-01
+35020|251|10000|Beratung Großgmain|Beratung Großgmain||||||||||50|Beratung Großgmain||00|J|J|9999-12-31|2015-01-01
+35020|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35020|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35020|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35020|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35020|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35020|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35020|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35020|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35020|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35021|100|10000|Anlagegüter|Anlagegüter GK||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2020-01-01
+35021|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2019-01-01
+35021|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2019-01-01
+35021|250|13000|Beratung Wallersee|Beratung Wallersee||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2019-01-01
+35021|251|13003|Beratung Köstendorf|Beratung Köstendorf||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2019-01-01
+35021|251|13004|Beratung Köstendorf|Beratung Köstendorf||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2019-01-01
+35021|252|13002|Beratung Neumarkt|Beratung Neumarkt||||||||||50|Beratung Wallersee||01|J|J|9999-12-31|2019-01-01
+35021|253|13001|Beratung Henndorf|Beratung Henndorf||||||||||50|Beratung Wallersee||18|J|J|9999-12-31|2019-01-01
+35021|300||Service-Team|Service-Team Servicebank||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2023-01-01
+35021|350|15000|Firmenkunden Wallersee|FK Servicebank Wallersee||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2019-01-01
+35021|400||Privatkunden|Privatkunden Servicebank||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2023-01-01
+35021|440||Private Banking|Private Banking||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2023-01-01
+35021|450|17000|Banksteuerung|Banksteuerung Wallersee||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2019-01-01
+35021|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2023-01-01
+35021|550|19000|Immobilien|Immobilien||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2020-01-01
+35021|600||Maklerei|Maklerei||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2023-01-01
+35021|650|21000|Treasury Wallersee|Treasury Wallersee||||||||||50|Beratung Wallersee||00|J|J|9999-12-31|2019-01-01
+35022|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35022|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35022|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35022|250|13000|Beratung Hallein-Oberalm|Beratung Hallein-Oberalm||||||||||50|Beratung Hallein-Oberalm||00|J|J|9999-12-31|2020-01-01
+35022|251|13001|Beratung Hallein|Beratung Hallein||||||||||50|Beratung Hallein-Oberalm||00|J|J|9999-12-31|2020-01-01
+35022|251|13006|Beratung Hallein|Beratung Hallein||||||||||50|Beratung Hallein-Oberalm||00|J|J|9999-12-31|2020-01-01
+35022|252|13002|Beratung Adnet|Beratung Adnet||||||||||50|Beratung Hallein-Oberalm||01|J|J|9999-12-31|2020-01-01
+35022|253|13003|Beratung Bad Vigaun|Beratung Bad Vigaun||||||||||50|Beratung Hallein-Oberalm||03|J|J|9999-12-31|2020-01-01
+35022|254|13007|Beratung Gaißau|Beratung Gaißau||||||||||50|Beratung Hallein-Oberalm||00|J|J|9999-12-31|2023-01-01
+35022|255|13008|Beratung Burgfried|Beratung Burgfried||||||||||50|Beratung Hallein-Oberalm||00|J|J|9999-12-31|2023-01-01
+35022|256|13004|Beratung Oberalm|Beratung Oberalm||||||||||50|Beratung Hallein-Oberalm||18|J|J|9999-12-31|2020-01-01
+35022|257|13005|Beratung Puch|Beratung Puch||||||||||50|Beratung Hallein-Oberalm||19|J|J|9999-12-31|2020-01-01
+35022|300||Service-Team|Service-Team Servicebank||||||||||50|Beratung Hallein-Oberalm||00|J|J|9999-12-31|2023-01-01
+35022|350|15000|Firmenkunden Hallein-Oberalm|FK Servicebank Hallein-Oberalm||||||||||50|Beratung Hallein-Oberalm||00|J|J|9999-12-31|2020-01-01
+35022|400||Privatkunden|Privatkunden Servicebank||||||||||50|Beratung Hallein-Oberalm||00|J|J|9999-12-31|2023-01-01
+35022|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35022|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35022|500|18000|Marktfolge Bankservice|MF Bankservice Hallein-Oberalm||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35022|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35022|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35022|650|21000|Treasury Hallein-Oberalm|Treasury Hallein-Oberalm||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35026|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35026|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35026|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35026|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung Gastein||00|J|J|9999-12-31|2023-01-01
+35026|251|10000|Beratung Hofgastein|Beratung Hofgastein||||||||||50|Beratung Gastein||00|J|J|9999-12-31|2015-01-01
+35026|252|10001|Beratung Dorfgastein|Beratung Dorfgastein||||||||||50|Beratung Gastein||01|J|J|9999-12-31|2015-01-01
+35026|253|10002|Beratung Badgastein|Beratung Badgastein||||||||||50|Beratung Gastein||02|J|J|9999-12-31|2015-01-01
+35026|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35026|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35026|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35026|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35026|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35026|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35026|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35026|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35026|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35027|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35027|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35027|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35027|250||Beratung St.Martin-Hüttau-Ni|Beratung St.Martin-Hüttau-Ni||||||||||50|Beratung St.Martin-Hüttau-Ni||00|J|J|9999-12-31|2023-01-01
+35027|251|10000|Beratung Hüttau|Beratung Hüttau||||||||||50|Beratung St.Martin-Hüttau-Ni||00|J|J|9999-12-31|2015-01-01
+35027|252|10001|Beratung St. Martin a.T|Beratung Bankstelle St. Martin||||||||||50|Beratung St.Martin-Hüttau-Ni||01|J|J|9999-12-31|2015-01-01
+35027|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35027|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35027|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35027|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35027|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35027|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35027|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35027|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35027|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35029|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35029|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2019-01-01
+35029|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2019-01-01
+35029|250||Beratung Kuchl-St.Kolomann|Beratung Gesamtbank||||||||||50|Beratung Kuchl-St.Kolomann||00|J|J|9999-12-31|2023-01-01
+35029|251|13001|Beratung Kuchl|Beratung Kuchl||||||||||50|Beratung Kuchl-St.Kolomann||00|J|J|9999-12-31|2019-01-01
+35029|252|13002|Beratung St.Koloman|Beratung St.Koloman||||||||||50|Beratung Kuchl-St.Kolomann||18|J|J|9999-12-31|2019-01-01
+35029|300||Service-Team|Service-Team Servicebank||||||||||50|Beratung Kuchl-St.Kolomann||00|J|J|9999-12-31|2023-01-01
+35029|350|15000|Firmenkunden|Firmenkunden Servicebank||||||||||50|Beratung Kuchl-St.Kolomann||00|J|J|9999-12-31|2019-01-01
+35029|400||Privatkunden|Privatkunden Servicebank||||||||||50|Beratung Kuchl-St.Kolomann||00|J|J|9999-12-31|2023-01-01
+35029|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35029|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35029|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35029|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35029|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35029|650|21000|Treasury Kuchl-St. Koloman|Treasury Kuchl-St. Koloman||||||||||90|Verwaltung||00|J|J|9999-12-31|2019-01-01
+35030|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2015-01-01
+35030|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2021-01-01
+35030|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2021-01-01
+35030|250||Beratung Flachgau Nord|Beratung Flachgau Nord||||||||||50|Beratung Flachgau Nord||00|J|J|9999-12-31|2023-01-01
+35030|251|13001|Beratung Lamprechtshausen|Beratung Lamprechtshausen||||||||||50|Beratung Flachgau Nord||00|J|J|9999-12-31|2021-01-01
+35030|252|13002|Beratung Bürmoos|Beratung Bürmoos||||||||||50|Beratung Flachgau Nord||01|J|J|9999-12-31|2021-01-01
+35030|253|13005|Beratung Michaelbeuern|Beratung Michaelbeuern||||||||||50|Beratung Flachgau Nord||18|J|J|9999-12-31|2021-01-01
+35030|254|13004|Beratung Nußdorf|Beratung Nußdorf||||||||||50|Beratung Flachgau Nord||26|J|J|9999-12-31|2021-01-01
+35030|255|13003|Beratung St.Georgen|Beratung St.Georgen||||||||||50|Beratung Flachgau Nord||34|J|J|9999-12-31|2021-01-01
+35030|300|14000|Service-Team|Service-Team Servicebank||||||||||50|Beratung Flachgau Nord||00|J|J|9999-12-31|2021-01-01
+35030|350|15000|Firmenkunden|Firmenkunden Servicebank||||||||||50|Beratung Flachgau Nord||00|J|J|9999-12-31|2021-01-01
+35030|400|16000|Privatkunden|Privatkunden Servicebank||||||||||50|Beratung Flachgau Nord||00|J|J|9999-12-31|2021-01-01
+35030|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35030|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35030|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35030|550|19000|Immobilien|Immobilien||||||||||50|Beratung Flachgau Nord||00|J|J|9999-12-31|2021-01-01
+35030|600||Maklerei|Maklerei||||||||||50|Beratung Flachgau Nord||00|J|J|9999-12-31|2023-01-01
+35030|650|21000|Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2021-01-01
+35034|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-11-01
+35034|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-11-01
+35034|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-11-01
+35034|250|13000|Beratung Gesamtbank|Beratung Gesamtbank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-11-01
+35034|251|13001|Beratung Liefering|Beratung Liefering||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-11-01
+35034|252|13002|Beratung Maxglan|Beratung Maxglan||||||||||25|Servicekundenbank||18|J|J|9999-12-31|2023-11-01
+35034|253|13003|Beratung Siezenheim|Beratung Siezenheim||||||||||25|Servicekundenbank||19|J|J|9999-12-31|2023-11-01
+35034|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35034|350|15000|Firmenkunden Liefering-Maxglan|FK Servicebank Liefering-Maxgl||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-11-01
+35034|400|16000|PK Liefering-Maxglan-Sie|PK Liefering-Maxglan-Siezenhei||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-11-01
+35034|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35034|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35034|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35034|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35034|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35034|650|21000|Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-11-01
+35039|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung RBO||00|J|J|9999-12-31|2020-01-01
+35039|150|11000|Overhead Oberpinzgau|Overhead GK Oberpinzgau||||||||||92|Overhead RBO||00|J|J|9999-12-31|2017-01-01
+35039|200|12000|MF Finanz-Serv Oberpinzgau|MF Finanz-Serv Oberpinzgau||||||||||90|Verwaltung RBO||00|J|J|9999-12-31|2017-01-01
+35039|250||Beratung Oberpinzgau|Beratung Oberpinzgau||||||||||50|Beratung RBO||00|J|J|9999-12-31|2023-01-01
+35039|251|13001|Beratung Mittersill|Beratung Mittersill||||||||||80|Beratungverbund Ost RBO||00|J|J|9999-12-31|2017-01-01
+35039|251|13009|Beratung Mittersill|Beratung Mittersill||||||||||80|Beratungverbund Ost RBO||00|J|J|9999-12-31|2017-01-01
+35039|252|13002|Beratung Stuhlfelden|Beratung Stuhlfelden||||||||||80|Beratungverbund Ost RBO||01|J|J|9999-12-31|2017-01-01
+35039|253|13003|Beratung Hollersbach|Beratung Hollersbach||||||||||80|Beratungverbund Ost RBO||02|J|J|9999-12-31|2017-01-01
+35039|254|13007|Beratung Uttendorf|Beratung Uttendorf||||||||||80|Beratungverbund Ost RBO||18|J|J|9999-12-31|2017-01-01
+35039|255|13004|Beratung Bramberg|Beratung Bramberg||||||||||51|Beratung Bramberg RBO||26|J|J|9999-12-31|2017-01-01
+35039|255|13010|Beratung Bramberg|Beratung Bramberg||||||||||51|Beratung Bramberg RBO||26|J|J|9999-12-31|2017-01-01
+35039|256|13008|Beratung Wald|Beratung Wald||||||||||81|Beratungsverbund West RBO||34|J|J|9999-12-31|2017-01-01
+35039|257|13006|Beratung Neukirchen|Beratung Neukirchen||||||||||52|Beratung Neukirchen RBO||42|J|J|9999-12-31|2017-01-01
+35039|258|13005|Beratung Krimml|Beratung Krimml||||||||||81|Beratungsverbund West RBO||59|J|J|9999-12-31|2017-01-01
+35039|300||Service-Team|Service-Team Servicebank||||||||||25|Servicebank RBO||00|J|J|9999-12-31|2023-01-01
+35039|350|15000|Firmenkunden Oberpinzgau|FK Servicebank Oberpinzgau||||||||||30|Firmenkundenbank RBO||00|J|J|9999-12-31|2017-01-01
+35039|400||Privatkunden Oberpinzgau|Privatkunden Oberpinzgau||||||||||40|Privatkundenbank RBO||00|J|J|9999-12-31|2023-01-01
+35039|440|16000|Private Banking Oberpinzgau|Private Banking Oberpinzgau||||||||||44|Private Banking RBO||00|J|J|9999-12-31|2017-01-01
+35039|450|17000|Banksteuerung Oberpinzgau|Banksteuerung Oberpinzgau||||||||||90|Verwaltung RBO||00|J|J|9999-12-31|2017-01-01
+35039|500|18000|Marktfolge Bankservice|MF Bankservice Oberpinzgau||||||||||90|Verwaltung RBO||00|J|J|9999-12-31|2017-01-01
+35039|550|19000|Immobilien Oberpinzgau|Immobilien Oberpinzgau||||||||||15|Immobilien RBO||00|J|J|9999-12-31|2017-01-01
+35039|600|20000|Maklerei Oberpinzgau|Maklerei Oberpinzgau||||||||||16|Maklerei RBO||00|J|J|9999-12-31|2017-01-01
+35039|650|21000|Treasury Oberpinzgau|Treasury Oberpinzgau||||||||||95|Treasury RBO||00|J|J|9999-12-31|2017-01-01
+35047|100|10000|Anlagegüter|Anlagegüter GK||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2015-01-01
+35047|150|11000|Overhead Salzburger Seenland|Overhead Salzburger Seenland||||||||||90|Verwaltung||00|J|J|9999-12-31|2015-01-01
+35047|200|12000|Kreditservice Salzburger Seenl|Kreditservice Salzburger Seenl||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2015-01-01
+35047|250||Beratung Seenland|Beratung Seenland||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2023-01-01
+35047|251|13001|Beratung Obertrum|Beratung Obertrum||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2015-01-01
+35047|252|13002|Beratung Mattsee|Beratung Mattsee||||||||||50|Beratung Seenland||01|J|J|9999-12-31|2015-01-01
+35047|253|13004|Beratung Berndorf|Beratung Berndorf||||||||||50|Beratung Seenland||18|J|J|9999-12-31|2016-01-01
+35047|254|13005|Beratung Seeham|Beratung Seeham||||||||||50|Beratung Seenland||19|J|J|9999-12-31|2016-01-01
+35047|255|13003|Beratung Seekirchen|Beratung Seekirchen||||||||||50|Beratung Seenland||75|J|J|9999-12-31|2015-01-01
+35047|300|14003|Service-Team|Service-Team Servicebank||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2015-01-01
+35047|301|14001|Service-Team Obertrum|Service-Team Obertrum||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2015-01-01
+35047|302|14002|Service-Team Mattsee|Service-Team Mattsee||||||||||50|Beratung Seenland||01|J|J|9999-12-31|2015-01-01
+35047|304|14005|Service-Team Seeham|Service-Team Seeham||||||||||50|Beratung Seenland||19|J|J|9999-12-31|2016-01-01
+35047|350|15000|Firmenkunden Salzburger Seenla|Firmenkunden Salzburger Seenla||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2015-01-01
+35047|400|16000|Privatkunden Salzburger Seenla|PK Salzburger Seenland||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2015-01-01
+35047|440||Private Banking Seenland|Private Banking Seenland||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2023-01-01
+35047|450||Banksteuerung|Banksteuerung||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2023-01-01
+35047|500|18000|Marktfolge Bankservice|Marktfolge Bankservice||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2019-01-01
+35047|550||Immobilien|Immobilien||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2023-01-01
+35047|600||Maklerei|Maklerei||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2023-01-01
+35047|650|21000|Treasury|Treasury||||||||||50|Beratung Seenland||00|J|J|9999-12-31|2015-01-01
+35049|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35049|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35049|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35049|250||Beratung RB Radstadt|Beratung RB Radstadt||||||||||50|Beratung RB Radstadt||00|J|J|9999-12-31|2023-01-01
+35049|251|10000|Beratung Radstadt|Beratung Radstadt||||||||||50|Beratung RB Radstadt||00|J|J|9999-12-31|2015-01-01
+35049|252|10001|Beratung Filzmoos|Beratung Filzmoos||||||||||50|Beratung RB Radstadt||01|J|J|9999-12-31|2015-01-01
+35049|253|10002|Beratung Obertauern|Beratung Obertauern||||||||||50|Beratung RB Radstadt||02|J|J|9999-12-31|2015-01-01
+35049|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35049|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35049|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35049|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35049|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35049|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35049|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35049|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35049|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35051|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35051|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35051|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35051|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung Rauris-Bucheben||00|J|J|9999-12-31|2023-01-01
+35051|251|10000|Beratung Rauris-Bucheben|Beratung Rauris-Bucheben||||||||||50|Beratung Rauris-Bucheben||00|J|J|9999-12-31|2015-01-01
+35051|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35051|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35051|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35051|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35051|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35051|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35051|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35051|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35051|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35052|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2015-01-01
+35052|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35052|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35052|250||Beratung Saalbach|Beratung Saalbach||||||||||50|Beratung Saalbach||00|J|J|9999-12-31|2023-01-01
+35052|251|13001|Beratung Saalbach|Beratung Saalbach||||||||||50|Beratung Saalbach||00|J|J|9999-12-31|2018-01-01
+35052|252|13002|Beratung Hinterglemm|Beratung Hinterglemm||||||||||50|Beratung Saalbach||01|J|J|9999-12-31|2018-01-01
+35052|253|13003|Beratung Viehhofen|Beratung Viehhofen||||||||||50|Beratung Saalbach||03|J|J|9999-12-31|2018-01-01
+35052|254|13004|Beratung Wieserhaus|Beratung Wieserhaus||||||||||50|Beratung Saalbach||04|J|J|9999-12-31|2018-01-01
+35052|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35052|350|15000|Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35052|400||Privatkunden Saalbach|PK Servicebank Saalbach||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35052|440|16000|Private Banking Saalbach|Private Banking Saalbach||||||||||44|Private Banking Saalbach||00|J|J|9999-12-31|2018-01-01
+35052|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35052|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35052|550|19000|Immobilien Saalbach|Immobilien Saalbach||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35052|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35052|650|21000|Treasury Saalbach|Treasury Saalbach||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35053|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35053|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35053|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35053|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung Pinzgau Mitte||00|J|J|9999-12-31|2023-01-01
+35053|251|13001|Beratung Saalfelden|Beratung Saalfelden||||||||||50|Beratung Pinzgau Mitte||00|J|J|9999-12-31|2020-01-01
+35053|252|13003|Beratung Dienten|Beratung Dienten||||||||||50|Beratung Pinzgau Mitte||18|J|J|9999-12-31|2020-01-01
+35053|253|13002|Beratung Maria Alm|Beratung Maria Alm||||||||||50|Beratung Pinzgau Mitte||26|J|J|9999-12-31|2021-01-01
+35053|253|13006|Beratung Maria Alm|Beratung Maria Alm||||||||||50|Beratung Pinzgau Mitte||26|J|J|9999-12-31|2021-01-01
+35053|254|13004|Beratung Leogang|Beratung Leogang||||||||||50|Beratung Pinzgau Mitte||34|J|J|9999-12-31|2020-01-01
+35053|255|13005|Beratung Maishofen|Beratung Maishofen||||||||||50|Beratung Pinzgau Mitte||42|J|J|9999-12-31|2020-01-01
+35053|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35053|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35053|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35053|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35053|450|17000|Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35053|500|18000|Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35053|550|19000|Immobilien Pinzgau Mitte|Immobilien Pinzgau Mitte||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35053|600|20000|Maklerei/Versicher Pinzgau Mit|Maklerei/Versicher Pinzgau Mit||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35053|650|21000|Treasury Pinzgau Mitte|Treasury Pinzgau Mitte||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35055|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2021-01-01
+35055|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-01-01
+35055|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-01-01
+35055|250|13000|Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung Pongau Mitte||00|J|J|9999-12-31|2021-01-01
+35055|251|13001|Beratung Schwarzach|Beratung Schwarzach||||||||||50|Beratung Pongau Mitte||00|J|J|9999-12-31|2021-01-01
+35055|251|13004|Beratung Schwarzach|Beratung Schwarzach||||||||||50|Beratung Pongau Mitte||00|J|J|9999-12-31|2021-01-01
+35055|251|13005|Beratung Schwarzach|Beratung Schwarzach||||||||||50|Beratung Pongau Mitte||00|J|J|9999-12-31|2021-01-01
+35055|252|13002|Beratung Bischofshofen|Beratung Bischofshofen||||||||||50|Beratung Pongau Mitte||34|J|J|9999-12-31|2021-01-01
+35055|252|13006|Beratung Bischofshofen|Beratung Bischofshofen||||||||||50|Beratung Pongau Mitte||34|J|J|9999-12-31|2021-01-01
+35055|252|13007|Beratung Bischofshofen|Beratung Bischofshofen||||||||||50|Beratung Pongau Mitte||34|J|J|9999-12-31|2021-01-01
+35055|252|13008|Beratung Bischofshofen|Beratung Bischofshofen||||||||||50|Beratung Pongau Mitte||34|J|J|9999-12-31|2021-01-01
+35055|252|13009|Beratung Bischofshofen|Beratung Bischofshofen||||||||||50|Beratung Pongau Mitte||34|J|J|9999-12-31|2021-01-01
+35055|253|13003|Beratung Werfen|Beratung Werfen||||||||||50|Beratung Pongau Mitte||42|J|J|9999-12-31|2022-01-01
+35055|253|13010|Beratung Werfen|Beratung Werfen||||||||||50|Beratung Pongau Mitte||42|J|J|9999-12-31|2022-01-01
+35055|253|13011|Beratung Werfen|Beratung Werfen||||||||||50|Beratung Pongau Mitte||42|J|J|9999-12-31|2022-01-01
+35055|300||Service-Team|Service-Team Servicebank||||||||||50|Beratung Pongau Mitte||00|J|J|9999-12-31|2023-01-01
+35055|350||Firmenkunden|Firmenkunden Servicebank||||||||||50|Beratung Pongau Mitte||00|J|J|9999-12-31|2023-01-01
+35055|351|15001|FK Schwarzach|FK Servicebank Schwarzach||||||||||50|Beratung Pongau Mitte||00|J|J|9999-12-31|2022-01-01
+35055|354|15002|FK Bischofshofen|Firmenkunden Bischofshofen||||||||||50|Beratung Pongau Mitte||34|J|J|9999-12-31|2022-01-01
+35055|400||Privatkunden|Privatkunden Servicebank||||||||||50|Beratung Pongau Mitte||00|J|J|9999-12-31|2023-01-01
+35055|401|16001|PK Schwarzach|PK Servicebank Schwarzach||||||||||50|Beratung Pongau Mitte||00|J|J|9999-12-31|2022-01-01
+35055|404|16002|PK Bischofshofen|Privatkunden Bischofshofen||||||||||50|Beratung Pongau Mitte||34|J|J|9999-12-31|2022-01-01
+35055|405|16003|PK Werfen|Privatkunden Werfen||||||||||50|Beratung Pongau Mitte||42|J|J|9999-12-31|2022-01-01
+35055|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35055|500|18000|MF Passiv|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2022-01-01
+35055|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35055|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35055|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35056|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35056|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35056|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35056|250||Beratung  St.Gilg-Fuschl-Strob|Beratung  St.Gilg-Fuschl-Strob||||||||||50|Beratung  St.Gilg-Fuschl-Strob||00|J|J|9999-12-31|2023-01-01
+35056|251|10000|Beratung St. Gilgen|Beratung St. Gilgen||||||||||51|Bst. St. Gilgen||00|J|J|9999-12-31|2015-01-01
+35056|252|10001|Beratung Fuschl|Beratung Fuschl||||||||||52|Bst. Fuschl||01|J|J|9999-12-31|2015-01-01
+35056|253|10002|Beratung Strobl|Beratung Strobl||||||||||53|Bst. Strobl||02|J|J|9999-12-31|2015-01-01
+35056|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35056|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35056|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35056|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35056|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35056|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35056|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35056|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35056|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35060|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35060|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35060|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35060|250||Beratung St.Martin-Lofer-Weiss|Beratung St.Martin-Lofer-Weiss||||||||||50|Beratung St.Martin-Lofer-Weiss||00|J|J|9999-12-31|2023-01-01
+35060|251|10000|Beratung St. Martin|Beratung St. Martin||||||||||51|Bst. St. Martin||00|J|J|9999-12-31|2015-01-01
+35060|252|10001|Beratung Lofer|Beratung Lofer||||||||||52|Bst. Lofer||01|J|J|9999-12-31|2015-01-01
+35060|253|10003|Beratung Weißbach|Beratung Weißbach||||||||||53|Bst. Weißbach||00|J|J|9999-12-31|2015-01-01
+35060|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35060|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35060|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35060|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35060|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35060|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35060|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35060|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35060|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35062|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35062|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35062|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35062|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung Straßwalchen||00|J|J|9999-12-31|2023-01-01
+35062|251|10000|Beratung Straßwalchen|Beratung Straßwalchen||||||||||50|Beratung Straßwalchen||00|J|J|9999-12-31|2015-01-01
+35062|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35062|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35062|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35062|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35062|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35062|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35062|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35062|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35062|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35063|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2015-01-01
+35063|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35063|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35063|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung||00|J|J|9999-12-31|2023-01-01
+35063|251|13001|Beratung Tamsweg|Beratung Tamsweg||||||||||51|BV Unterlungau||00|J|J|9999-12-31|2018-01-01
+35063|252|13002|Beratung Unternberg|Beratung Unternberg||||||||||51|BV Unterlungau||00|J|J|9999-12-31|2018-01-01
+35063|253|13003|Beratung Ramingstein|Beratung Ramingstein||||||||||51|BV Unterlungau||00|J|J|9999-12-31|2018-01-01
+35063|254|13005|Beratung Zederhaus|Beratung Zederhaus||||||||||52|BV Oberlungau||34|J|J|9999-12-31|2018-01-01
+35063|255|13004|Beratung St. Michael|Beratung St. Michael||||||||||52|BV Oberlungau||34|J|J|9999-12-31|2018-01-01
+35063|256|13006|Beratung Muhr|Beratung Muhr||||||||||52|BV Oberlungau||34|J|J|9999-12-31|2018-01-01
+35063|257|13007|Beratung St. Margarethen|Beratung St. Margarethen||||||||||52|BV Oberlungau||34|J|J|9999-12-31|2018-01-01
+35063|258|13011|Beratung Kompetenzcenter|Beratung Kompetenzcenter||||||||||53|Kompetenzcenter||37|J|J|9999-12-31|2023-01-01
+35063|259|13008|Beratung Mauterndorf|Beratung Mauterndorf||||||||||52|BV Oberlungau||42|J|J|9999-12-31|2018-01-01
+35063|260|13009|Beratung Obertauern|Beratung Obertauern||||||||||52|BV Oberlungau||43|J|J|9999-12-31|2018-01-01
+35063|261|13010|Beratung Mariapfarr|Beratung Mariapfarr||||||||||51|BV Unterlungau||59|J|J|9999-12-31|2018-01-01
+35063|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35063|350|15000|Firmenkunden Lungau eGen|Firmenkunden Lungau eGen||||||||||53|Kompetenzcenter||00|J|J|9999-12-31|2018-01-01
+35063|351|15003|Firmenkunden Ramingstein|Firmenkunden Ramingstein||||||||||53|Kompetenzcenter||00|J|J|9999-12-31|2018-01-01
+35063|400||Privatkunden Lungau|Privatkunden Lungau||||||||||53|Kompetenzcenter||00|J|J|9999-12-31|2023-01-01
+35063|440|16000|Private Banking Lungau|Private Banking Lungau||||||||||53|Kompetenzcenter||00|J|J|9999-12-31|2018-01-01
+35063|450|17000|Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35063|500|18000|Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35063|550|19000|Immobilien Lungau|Immobilien Lungau||||||||||50|Beratung||00|J|J|9999-12-31|2018-01-01
+35063|600|20000|Maklerei Lungau|Maklerei Lungau||||||||||50|Beratung||00|J|J|9999-12-31|2018-01-01
+35063|650|21000|Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2018-01-01
+35064|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35064|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35064|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35064|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung||00|J|J|9999-12-31|2023-01-01
+35064|251|10000|Beratung Taxenbach|Beratung Taxenbach||||||||||51|Bst. Taxenbach||00|J|J|9999-12-31|2015-01-01
+35064|252|10001|Beratung Embach|Beratung Embach||||||||||52|Bst. Embach||00|J|J|9999-12-31|2015-01-01
+35064|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35064|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35064|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35064|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35064|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35064|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35064|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35064|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35064|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35065|100|10000|Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2021-01-01
+35065|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2021-01-01
+35065|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2021-01-01
+35065|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung||00|J|J|9999-12-31|2023-01-01
+35065|251|13002|Beratung Thalgau|Beratung Thalgau||||||||||51|Bst. Thalgau||00|J|J|9999-12-31|2021-01-01
+35065|252|13001|Beratung Hof|Beratung Hof||||||||||52|Bst. Hof||26|J|J|9999-12-31|2021-01-01
+35065|253|13003|Beratung Koppl|Beratung Koppl||||||||||53|Bst. Koppl||27|J|J|9999-12-31|2021-01-01
+35065|254|13004|Beratung Ebenau|Beratung Ebenau||||||||||54|Bst. Ebenau||00|J|J|9999-12-31|2023-01-01
+35065|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35065|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35065|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35065|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35065|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35065|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35065|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35065|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35065|650|21000|Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2021-01-01
+35066|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35066|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35066|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35066|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung Unken||00|J|J|9999-12-31|2023-01-01
+35066|251|10000|Beratung Unken|Beratung Unken||||||||||50|Beratung Unken||00|J|J|9999-12-31|2015-01-01
+35066|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35066|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35066|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35066|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35066|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35066|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35066|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35066|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35066|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35069|100|10000|Anlagegüter|Anlagegüter GK||||||||||50|Beratung RB SWK||00|J|J|9999-12-31|2020-01-01
+35069|150|11000|Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2020-01-01
+35069|200|12000|MF Finanzierungsservice|MF Finanzierungsservice||||||||||50|Beratung RB SWK||00|J|J|9999-12-31|2020-01-01
+35069|250|13000|Beratung RB SWK|Beratung RB SWK||||||||||50|Beratung RB SWK||00|J|J|9999-12-31|2020-01-01
+35069|251|13002|Beratung Wagrain|Beratung Wagrain||||||||||50|Beratung RB SWK||00|J|J|9999-12-31|2020-01-01
+35069|252|13003|Beratung Kleinarl|Beratung Kleinarl||||||||||50|Beratung RB SWK||01|J|J|9999-12-31|2020-01-01
+35069|253|13001|Beratung St. Johann|Beratung St. Johann||||||||||50|Beratung RB SWK||18|J|J|9999-12-31|2020-01-01
+35069|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35069|350|15000|Firmenkunden St. J - W-K|Firmenkunden St. J - W-K||||||||||50|Beratung RB SWK||00|J|J|9999-12-31|2020-01-01
+35069|351|15001|Firmenkunden St. Johann|Firmenkunden St. Johann||||||||||50|Beratung RB SWK||18|J|J|9999-12-31|2020-01-01
+35069|352|15002|Firmenkunden Wagrain|Firmenkunden Wagrain||||||||||50|Beratung RB SWK||00|J|J|9999-12-31|2020-01-01
+35069|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35069|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35069|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35069|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35069|550|19000|Immobilien|Immobilien||||||||||50|Beratung RB SWK||00|J|J|9999-12-31|2020-01-01
+35069|600|20000|Maklerei|Maklerei||||||||||50|Beratung RB SWK||00|J|J|9999-12-31|2020-01-01
+35069|650|21000|Treasury|Treasury||||||||||50|Beratung RB SWK||00|J|J|9999-12-31|2020-01-01
+35071|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35071|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35071|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35071|250||Beratung Wals-Himmelreich|Beratung Wals-Himmelreich||||||||||50|Beratung Wals-Himmelreich||00|J|J|9999-12-31|2023-01-01
+35071|251|10000|Beratung Wals|Beratung Wals||||||||||50|Beratung Wals-Himmelreich||00|J|J|9999-12-31|2015-01-01
+35071|252|10001|Beratung Himmelreich|Beratung Himmelreich||||||||||50|Beratung Wals-Himmelreich||03|J|J|9999-12-31|2015-01-01
+35071|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35071|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35071|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35071|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35071|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35071|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35071|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35071|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35071|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35096|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35096|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35096|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35096|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung||00|J|J|9999-12-31|2023-01-01
+35096|251|10000|Testbetrieb Schulung|Testbetrieb Schulung||||||||||51|KstG Testbetrieb Schulung||00|J|J|9999-12-31|2015-01-01
+35096|252|10001|Elba|Elba||||||||||52|KstG Elba||00|J|J|9999-12-31|2015-01-01
+35096|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35096|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35096|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35096|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35096|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35096|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35096|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35096|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35096|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35099|100||Anlagegüter|Anlagegüter GK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35099|150||Overhead|Overhead Gemeinkosten||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35099|200||MF Finanzierungsservice|MF Finanzierungsservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35099|250||Beratung Gesamtbank|Beratung Gesamtbank||||||||||50|Beratung||00|J|J|9999-12-31|2023-01-01
+35099|251|10000|Testbetrieb Schulung|Testbetrieb Schulung||||||||||51|KstG Testbetrieb Schulung||00|J|J|9999-12-31|2023-01-01
+35099|252|10001|Elba|Elba||||||||||52|KstG Elba||00|J|J|9999-12-31|2023-01-01
+35099|300||Service-Team|Service-Team Servicebank||||||||||25|Servicekundenbank||00|J|J|9999-12-31|2023-01-01
+35099|350||Firmenkunden|Firmenkunden Servicebank||||||||||30|Firmenkundenbank||00|J|J|9999-12-31|2023-01-01
+35099|400||Privatkunden|Privatkunden Servicebank||||||||||40|Privatkundenbank||00|J|J|9999-12-31|2023-01-01
+35099|440||Private Banking|Private Banking||||||||||44|Private Banking||00|J|J|9999-12-31|2023-01-01
+35099|450||Banksteuerung|Banksteuerung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35099|500||Marktfolge Bankservice|Marktfolge Bankservice||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35099|550||Immobilien|Immobilien||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35099|600||Maklerei|Maklerei||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35099|650||Treasury|Treasury||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35100|100|10000|Raiffeisen Lagerhaus Salzburg|Raiffeisen Lagerhaus Salzburg||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35100|110|30100|Zentr Auslieferungslager|30100 Zentr Auslieferungslager|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|111|30140|HV Warenzentrale Berheim|30140 HV Warenzentrale Berheim|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|112|31102|Lgh.Techn.Flachau/Altenm|31102 Lgh.Techn.Flachau/Altenm|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|113|31108|Lgh.Technik Bramberg|31108 Lgh.Technik Bramberg|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|114|31110|Lgh.Technik Buck|31110 Lgh.Technik Buck|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|115|31140|Lgh.Technik Bergheim|31140 Lgh.Technik Bergheim|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|116|32001|Lagerhaus Abersee|32001 Lagerhaus Abersee|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|117|32005|Lagerhaus Bergheim|32005 Lagerhaus Bergheim|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|118|32006|Lagerhaus Elsbethen|32006 Lagerhaus Elsbethen|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|119|32007|Lagerhaus Eugendorf|32007 Lagerhaus Eugendorf|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|120|32008|Lagerhaus Hallein|32008 Lagerhaus Hallein|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|121|32011|Lagerhaus Hof|32011 Lagerhaus Hof|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|122|32012|Lagerhaus Göming|32012 Lagerhaus Göming|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|123|32015|Lagerhaus Michaelbeuern|32015 Lagerhaus Michaelbeuern|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|124|32022|Lagerhaus Wals|32022 Lagerhaus Wals|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|125|32024|Lagerhaus Steindorf|32024 Lagerhaus Steindorf|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|126|32031|Lagerhaus Grödig|32031 Lagerhaus Grödig|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|127|34003|Lagerhaus St. Michael|34003 Lagerhaus St. Michael|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|128|34004|Lagerhaus Zederhaus|34004 Lagerhaus Zederhaus|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|129|34040|Lgh & Technik Tamsweg|34040 Lgh & Technik Tamsweg|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|130|35012|Lagerhaus Großarl|35012 Lagerhaus Großarl|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|131|35013|Lagerhaus Wagrain|35013 Lagerhaus Wagrain|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|132|35030|Lagerhaus Bischofshofen|35030 Lagerhaus Bischofshofen|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|133|35040|Lgh & Technik St. Johann|35040 Lgh & Technik St. Johann|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|134|35041|Lagerhaus Taxenbach|35041 Lagerhaus Taxenbach|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|135|35051|Lagerhaus Rauris|35051 Lagerhaus Rauris|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|136|36000|Lagerhaus Saalfelden|36000 Lagerhaus Saalfelden|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|137|36002|Lagerhaus Bruck|36002 Lagerhaus Bruck|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|138|36003|Lagerhaus St. Martin|36003 Lagerhaus St. Martin|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|139|36007|Lagerhaus Niedernsill|36007 Lagerhaus Niedernsill|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|140|36011|Lagerhaus Saalbach|36011 Lagerhaus Saalbach|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|141|36016|Lgh Oberpinzgau (Bramberg)|36016 Lgh Oberpinzgau (Bramb.)|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|142|36017|Lagerhaus Mittersill|36017 Lagerhaus Mittersill|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|143|36040|HV Saalfelden (alt)|36040 HV Saalfelden (alt)|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|144|38002|Lagerhaus Obertrum|38002 Lagerhaus Obertrum|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|145|39140|Areal Itzl. Mischfutterw|39140 Areal Itzl. Mischfutterw|90|Beteiligungen & Immobilien||90|Immobilien||91|Ware 3er||91|Ware 3er||00|J|J|9999-12-31|2023-01-01
+35100|150|20000|Geschäftsleitung|20000 Geschäftsleitung|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|151|20100|Sekretariat|20100 Sekretariat|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|152|20140|HV Zentrale Gerberstraße|20140 HV Zentrale Gerberstraße|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|153|20200|Projekte & Organisation|20200 Projekte & Organisation|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|154|20500|Transformation & Nachhaltigk.|20500 Transform.&Nachhaltigk.|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|155|30110|Zentrallager|30110 Zentrallager|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|156|30120|Lager Mischfutterwerk|30120 Lager Mischfutterwerk|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|157|30200|Fuhrpark|30200 Furhpark|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|158|30220|Fuhrpark Pongau|30220 Fuhrpark Pongau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|159|30230|Fuhrpark Pinzgau|30230 Fuhrpark Pinzgau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|160|30250|Fuhrpark Energie|30250 Fuhrpark Energie|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|161|30300|Deutscher Betrieb|30300 Deutscher Betrieb|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|162|31100|VL Technik|31100 VL Technik|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|163|31101|Technik Salzburg|31101 Technik Salzburg|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|164|31103|Technik Tamsweg|31103 Technik Tamsweg|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|165|31105|Technik Saalfelden|31105 Technik Saalfelden|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|166|31106|Technik St. Johann|31106 Technik St. Johann|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|167|31109|Technik-Verkauf Flachgau Ost|31109 Techn.-Vkf. Flachgau Ost|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|168|31111|Technik-Verkauf Flachgau Süd|31111 Techn.-Vkf. Flachgau Süd|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|169|31112|Technik-Verkauf Tennengau|31112 Techn.-Vkf. Tennengau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|170|31135|Kühl- u. Melktechnik Pinzgau|31135 Kühl- u. Melkt. Pinzgau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|171|31136|Kühl- u. Melktechnik Bruck|31136 Kühl- u.  Melkt. Bruck|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|172|31137|Kühl- u. Melktechnik Flachgau|31137 Kühl- u. Melkt. Flachg.|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|173|31210|FB Technik/Verkauf|31210 FB Technik/Verkauf|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|174|31220|FB Werkstätten|31220 FB Werkstätten|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|175|32100|VL Flach- und Tennengau|31141 Lgh.Technik Bergheim|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|176|32009|Lagerhaus St. Kolomann|32008 Lagerhaus St. Kolomann|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|177|34100|VL Lungau|34100 VL Lungau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|178|34000|Lagerhaus Tamsweg|34000 Lagerhaus Tamsweg|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|179|35100|VL Pongau|35100 VL Pongau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|180|35011|Lagerhaus St. Johann|35011 Lagerhaus St. Johann|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|181|36100|VL Pinzgau|36100 VL Pinzgau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|182|39100|FB Landwirtschaft|39100 FB Landwirtschaft|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|183|39110|Produktion|39100 Produktion|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|184|39120|Außendienst|39120 Außendienst|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|185|39210|FB Haushalt|39210 FB Haushalt|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|186|39220|FB Garten|39220 FB Garten|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|187|39230|FB Werkzeug|39230 FB Werkzeug|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|188|39310|FB Rohbau|39310 FB Rohbau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|189|39320|FB Innenausbau|39320 FB Innenausbau|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|190|39400|FB Energie|39400 FB Energie|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|191|39410|Tanklager Lehen|39410 Tanklager Lehen|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|192|39420|Tanklager Saalfelden|39420 Tanklager Saalfelden|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|193|42000|Marketing Ware|42000 Marketing Ware|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|194|43000|AOM|43000 AOM|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|195|44000|RW&CO Ware|44000 RW&CO Ware|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|196|45000|IT-Leitung & Prozesse|45000 IT-Leitung & Prozesse|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|197|45100|Kundencenter|45100 Kundencenter|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|198|45200|Businessanalyse|45200 Businessanalyse|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35100|199|45300|Softwareentwicklung|45300 Softwareentwicklung|11|Ware||12|Ware eigene KST||12|Ware eigene KST||12|Ware eigene KST||00||J|9999-12-31|2023-01-01
+35101|100|10000|Testbetrieb Schulung Ware|Testbetrieb Schulung Ware||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35160|111|11111|Lagerhaus Faistenau|Lagerhaus Faistenau||||||||||90|Verwaltung||00|J|J|9999-12-31|2015-01-01
+35210|111|11111|Lagerhaus Abtenau|Lagerhaus Abtenau||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35210|222|22222|Lagerhaus Annaberg|Lagerhaus Annaberg||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35210|350|37050|Lagerhaus Abtenau|Lagerhaus Abtenau||||||||||90|Verwaltung||00|J|J|9999-12-31|2015-01-01
+35210|351|37051|Lagerhaus Annaberg|Lagerhaus Annaberg||||||||||90|Verwaltung||00|J|J|9999-12-31|2015-01-01
+35210|352|37052|Lagerhaus Abtenau-Markt|Lagerhaus Abtenau-Markt||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35240|111|11111|Lagerhaus Altenmarkt|Lagerhaus Altenmarkt||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35240|222|22222|Lagerhaus Radstadt|Lagerhaus Radstadt||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35240|333|33333|Lagerhaus Forstau|Lagerhaus Forstau||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35240|356|37056|Lagerhaus Altenmarkt|Lagerhaus Altenmarkt||||||||||90|Verwaltung||00|J|J|9999-12-31|2015-01-01
+35240|357|37057|Lagerhaus Radstadt|Lagerhaus Radstadt||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35240|358|37058|Lagerhaus Forstau|Lagerhaus Forstau||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35240|359|37059|Lagerhaus Radstadt|Lagerhaus Radstadt||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35260|111|11111|Lagerhaus Bad Hofgastein|Lagerhaus Bad Hofgastein||||||||||90|Verwaltung||00|J|J|9999-12-31|2015-01-01
+35290|111|11111|Lagerhaus Kuchl-Golling|Lagerhaus Kuchl-Golling||||||||||90|Verwaltung||00|J|J|9999-12-31|2015-01-01
+35310|111|11111|Lagerhaus Leogang|Lagerhaus Leogang||||||||||90|Verwaltung||00|J|J|9999-12-31|2016-01-01
+35322|001|00001|Mondsee|Mondsee||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35322|005|00005|Filiale Loibichl|Filiale Loibichl||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35322|010|00010|Werkstätte|Werkstätte||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35322|600|60000|Verwaltung|Verwaltung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35322|601|60001|Verwaltung|Verwaltung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35322|603|63000|Baustoffe|Baustoffe||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35322|700|70000|Fuhrpark|Fuhrpark||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35624|111|11111|Lagerhaus Hart|Lagerhaus Hart||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35631|111|11111|Lagerhaus Leutasch|Lagerhaus Leutasch||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35633|111|11111|Lagerhaus Stumm|Lagerhaus Stumm||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35636|111|11111|Lagerhaus Zell am Ziller|Lagerhaus Zell am Ziller||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35900|100|10000|RAITEC GmbH|RAITEC GmbH||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35900|101|10001|RAITEC GmbH OÖ / Tirol|RAITEC GmbH OÖ / Tirol||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35901|100|10000|Raiffeisen Software GmbH|Raiffeisen Software GmbH||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35901|244|40404|Auszubildende|Auszubildende||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35901|300|10300|ORG/IT-Zentrale Services|ORG/IT-Zentrale Services||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35901|304|10317|Softwareentwicklung|Softwareentwicklung||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35910|100|10000|Diverse|Diverse||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35910|101|10100|Raiffeisen Salzburg Invest Gmb|Raiffeisen Salzburg Invest Gmb||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35910|102|10200|RSI KAG Portfolio|RSI KAG Portfolio||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35910|400|40800|Rechnungswesen & Controlling|Rechnungswesen & Controlling||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35912|100|10000|RSK|RSK||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35912|101|10001|Pool-Service|Pool-Service||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35912|102|10002|Payroll-Service|Payroll-Service||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35912|103|10003|Shared-Service|Shared-Service||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
+35912|104|10004|Karriere-Service|Karriere-Service||||||||||90|Verwaltung||00|J|J|9999-12-31|2023-01-01
