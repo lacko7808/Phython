@@ -22,5 +22,16 @@ class Euro(FixedFloat):
     def __repr__(self):
         return f'<Euro {self.symbol}{self.amount:.2f}>'
     
-money = Euro.from_sum(16.758, 9.999)
-print(money)
+class Dollar(FixedFloat):
+    def __init__(self, amount):
+        super().__init__(amount)
+        self.symbol = '$'
+
+    def __repr__(self):
+        return f'<Dollar {self.symbol}{self.amount:.3f}>'
+    
+moneyEU = Euro(16.75811)
+moneyDollar = Dollar(78.88333)
+print(moneyEU)
+print(moneyDollar)
+print(Dollar.from_sum(15.13343,11.3434), Euro.from_sum(34.243234,44.24234))
