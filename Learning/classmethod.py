@@ -13,7 +13,7 @@ class FixedFloat:
 new_number = FixedFloat.from_sum(19.575, 0.789)
 #print(number)    
 print(new_number)
-    
+
 class Euro(FixedFloat):
     def __init__(self, amount):
         super().__init__(amount)
