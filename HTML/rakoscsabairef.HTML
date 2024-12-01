@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    table {
+        border-collapse: collapse; /* Összevonja a kereteket, így csak egyszeres keret látszik */
+        width: 100%; /* Opcionális: teljes szélességű táblázat */
+    }
+
+    th, td {
+        border: 1px solid black;
+        padding: 20px 5px; /* 10px függőleges (felső/alsó), 5px vízszintes (bal/jobb) padding */
+        text-align: center; /* Opcionális: középre igazítás */
+    }
+    </style>
+</head>
+<body>
+    <table border="1">
+        <thead>
+          <tr>
+            <th>Hétfő</th>
+            <th>Kedd</th>
+            <th>Szerda</th>
+            <th>Csütörtök</th>
+            <th>Péntek</th>
+            <th>Szombat</th>
+            <th>Vasárnap</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <!-- Hétfő -->
+            <td>
+              <a href="#" target="_blank">16:30-17:30 Fogadóóra</a><br>
+              <a href="#" target="_blank">18:30 Kórus próba</a>
+            </td>
+      
+            <!-- Kedd -->
+            <td></td>
+      
+            <!-- Szerda -->
+            <td>
+              <a href="#" target="_blank">9:00 Nagymama kör</a><br>
+              <a href="#" target="_blank">18:30 Imaóra</a>
+            </td>
+      
+            <!-- Csütörtök -->
+            <td>
+              <a href="#" target="_blank">16:30-17:30 Fogadóóra</a><br>
+              <a href="#" target="_blank">18:00 Bibliaóra</a>
+            </td>
+      
+            <!-- Péntek -->
+            <td>
+              <a href="#" target="_blank">18:00 Cserkészet</a><br>
+              <a href="#" target="_blank" id="noibi_fiibi">19:00 <span id="bibliakor">Női bibliakör</span> / Férfi bibliakör</a>
+            </td>
+      
+            <!-- Szombat -->
+            <td></td>
+      
+            <!-- Vasárnap -->
+            <td>
+              <a href="#" target="_blank">10:00 Istentisztelet</a><br>
+              <a href="#" target="_blank">11:30 Gyermek konfirmációs előkészítő</a><br>
+              <a href="#" target="_blank">16:00 Ifi</a><br>
+              <a href="#" target="_blank">17:00 Felnőtt konfirmációs előkészítő</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      
+      <script>
+        // Pénteki események kezelése páros/páratlan hét alapján
+        function updateBibliakor() {
+          var today = new Date();
+          var weekNumber = Math.ceil((today.getDate() - today.getDay() + 1) / 7); // Kiszámolja a hét számát
+      
+          var bibliakorElement = document.getElementById("bibliakor");
+          var noibiFiibi = document.getElementById("noibi_fiibi");
+      
+          // Páros héten Női bibliakör, páratlan héten Férfi bibliakör
+          if (weekNumber % 2 === 0) {
+            bibliakorElement.innerHTML = "Női bibliakör";
+          } else {
+            bibliakorElement.innerHTML = "Férfi bibliakör";
+          }
+        }
+      
+        // Oldal betöltésekor frissítjük a pénteki eseményt
+        window.onload = updateBibliakor;
+      </script>    
+</body>

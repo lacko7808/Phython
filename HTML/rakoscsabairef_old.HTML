@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Common styles */
+        .day {
+            border: 1px solid #ccc;
+            padding: 5px;
+            position: relative;
+            text-align: center;     
+        }
+        .event {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            width: 100%;
+            background: white;
+            padding: 5px;
+            border: 1px solid #ccc;
+        }
+        .day:hover .event {
+            display: block;
+        }
+        .event.even {
+            background-color: #E8772E;
+            z-index: 9999;
+        }
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;       
+        }
+
+        /* Calendar styles for larger screens */
+        @media (min-width: 768px) {
+            .calendar {
+                display: grid;
+                grid-template-columns: repeat(7, 1fr);
+                border: 1px solid #ccc;
+            }
+        }
+
+        /* Calendar styles for smaller screens */
+        @media (max-width: 767px) {
+            .calendar {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center; /* Center horizontally *
+                align-items: center; /* Center vertically */
+            }
+
+            .day {
+                width: 50%;
+            }
+
+            .event {
+                width: 100%;
+                left: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+      <div class="calendar">
+        <!-- Individual day elements -->
+        <div class="day">
+            <strong>Hétfő</strong><br><span id="eventMonday"></span>
+            <div class="event even">
+                <img src="https://via.placeholder.com/150x150" alt="Event Image">
+            </div>
+        </div>
+        <div class="day">
+            <strong>Kedd</strong><br><span id="eventTuesday"></span>
+            <div class="event even">
+                <img src="https://via.placeholder.com/150x150" alt="Event Image">
+            </div>
+        </div>
+        <div class="day">
+            <strong>Szerda</strong><br><span id="eventWednesday"></span>
+            <div class="event even">
+                <img src="https://via.placeholder.com/150x150" alt="Event Image">
+            </div>
+        </div>
+        <div class="day">
+            <strong>Csütörtök</strong><br><span id="eventThursday"></span>
+            <div class="event even">
+                  <video width="640" height="480" controls>
+                        <source src="https://new.rakoscsabairef.hu/wp-content/uploads/2024/11/Bibliaora_film_short.mp4" type="video/mp4">
+                         A böngésződ nem támogatja a videó lejátszást.
+                </video>
+            </div>
+        </div>
+        <div class="day">
+            <strong>Péntek</strong><br><span id="eventFriday"></span>
+            <div class="event even">
+                <img src="https://via.placeholder.com/150x150" alt="Event Image">
+            </div>
+        </div>
+        <div class="day">
+            <strong>Szombat</strong><br><span id="eventSaturday"></span>
+            <div class="event even">
+                <img src="https://via.placeholder.com/150x150" alt="Event Image">
+            </div>
+        </div>
+        <div class="day">
+            <strong>Vasárnap</strong><br><span id="eventSunday"></span>
+            <div class="event even">
+                <img src="https://via.placeholder.com/150x150" alt="Event Image">
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const currentDate = new Date();
+        const currentWeekNumber = Math.ceil(((currentDate - new Date(currentDate.getFullYear(), 0, 1)) / 86400000 + 1) / 7);
+        const isEvenWeek = currentWeekNumber % 2 === 0;
+
+        // Update event time based on even or odd week
+        const eventMonday = document.getElementById('eventMonday');
+        const eventTuesday = document.getElementById('eventTuesday');
+        const eventWednesday = document.getElementById('eventWednesday');
+        const eventThursday = document.getElementById('eventThursday');
+        const eventFriday = document.getElementById('eventFriday');
+        const eventSaturday = document.getElementById('eventSaturday');
+        const eventSunday = document.getElementById('eventSunday');
+
+        eventMonday.innerText = `\n 16:30-17:30 \n Fogadóóra \n\n 18:30 \n Kórus próba`;
+        eventTuesday.innerText = ``;
+        eventWednesday.innerText = `\n 9:00 \n Nagymama kör \n\n 18:30 \n Imaóra`;
+        eventThursday.innerText = `\n 16:30-17:30 \n Fogadóóra \n\n 18:00 \n Bibliaóra`;
+        eventFriday.innerText = `\n 18:00 \n Cserkészet \n\n ${isEvenWeek ? '18:30 \n Férfi bibliakör' : '19:00 \n Női bibliakör'}`;
+        eventSaturday.innerText = ``;
+        eventSunday.innerText = `\n 10:00 \n Istentisztelet \n\n 11:30 \n Gyermek konfirmációs előkészítő \n\n 16:00 \n Ifi \n\n 17:00 \n Felnőtt konfirmációs előkészítő`;
+    </script>
+</body>
+</html>
