@@ -12,5 +12,11 @@ employee = {
     "role": "Fejlesztő",
     "FTE": 1,
 }
+
 print()
-print(employee)
+
+for key in employee:
+    print(key, employee[key])
+
+for key, value in employee.items():
+    print(f"{key}: {value}")
